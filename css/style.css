@@ -6,16 +6,25 @@ body {
 }
 
 .header {
-  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.photo {
-  float: left;
-  margin-right: 20px;
-}
-
-.name {
+.header-photo {
+  width: 25%;
   text-align: center;
+}
+
+.header-photo img {
+  width: 150px;
+  height: auto;
+  border-radius: 25%;
+}
+
+.header-title {
+  text-align: center;
+  width: 75%;
   font-family: "Source Code Pro", monospace;
   font-size: 64px;
   font-weight: 600;
@@ -23,18 +32,18 @@ body {
   color: #6b4c3a;
 }
 
-.name::after {
+.header-title::after {
   content: "";
   display: block;
   clear: both;
 }
 
-.name p:last-child {
+.header-title p:last-child {
   font-size: 32px;
   font-weight: 400;
 }
 
-.name p {
+.header-title p {
   margin: 0;
 }
 
@@ -78,7 +87,7 @@ a:hover {
   color: #ae7e5e;
 }
 
-img {
+/*img {
   position: absolute;
   left: 12%;
   top: 13%;
@@ -86,4 +95,4 @@ img {
   width: 150px;
   height: auto;
   border-radius: 25%;
-}
+} */
