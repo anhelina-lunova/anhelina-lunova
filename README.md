@@ -18,7 +18,7 @@
 
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
 [![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
-[![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=black)]()
+[![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
 
 [![](https://img.shields.io/badge/Google_Chrome-34a853?logo=Google-chrome&logoColor=white)]()
 [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]()
@@ -28,59 +28,59 @@
 [![](https://img.shields.io/badge/Postman-white?logo=Postman&logoColor=ef5b25)]()
 [![](https://img.shields.io/badge/JSON-gray?logo=json&logoColor=)]()
 
-[![](https://img.shields.io/badge/Node.js-gray?logo=nodedotjs&logoColor=)]()
-[![](https://img.shields.io/badge/npm-gray?logo=npm&logoColor=)]()
+[![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]()
+[![](https://img.shields.io/badge/npm-white?logo=npm&logoColor=cb3837)]()
 [![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]()
-[![](https://img.shields.io/badge/Cucumber-gray?logo=cucumber&logoColor=)]()
-[![](https://img.shields.io/badge/VSCode-gray?logo=visual%20studio%20code&logoColor=)]()
+[![](https://img.shields.io/badge/Cucumber-F3FBF4?logo=cucumber&logoColor=00A818)]()
+[![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
 
-[![](https://img.shields.io/badge/MySQL-gray?logo=mysql&logoColor=)]()
-[![](https://img.shields.io/badge/Sqlite-gray?logo=sqlite&logoColor=)]()
+[![](https://img.shields.io/badge/Git-white?logo=git&logoColor=f34f29)]()
+[![](https://img.shields.io/badge/gitignore.io-white?logo=gitignoredotio&logoColor=204ecf)]()
+[![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
+[![](https://img.shields.io/badge/GitLab-white?logo=gitlab&logoColor=)]()
 
-[![](https://img.shields.io/badge/Notion-gray?logo=notion&logoColor=)]()
-[![](https://img.shields.io/badge/Jira-gray?logo=Jira&logoColor=)]()
+[![](https://img.shields.io/badge/MySQL-00688F?logo=mysql&logoColor=E48E1A)]()
+[![](https://img.shields.io/badge/SQLite-66B9E7?logo=sqlite&logoColor=003B57)]()
 
-[![](https://img.shields.io/badge/Figma-gray?logo=figma&logoColor=)]()
+[![](https://img.shields.io/badge/Amazon_AWS-252F3E?logo=amazonaws&logoColor=FF9900)]()
+[![](https://img.shields.io/badge/Netlify-white?logo=netlify&logoColor=teal)]()
 
-[![](https://img.shields.io/badge/Google%20Meet-gray?logo=google-meet&logoColor=)]()
-[![](https://img.shields.io/badge/Zoom-gray?logo=zoom&logoColor=)]()
-[![](https://img.shields.io/badge/Slack-gray?logo=slack&logoColor=)]()
+[![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
+[![](https://img.shields.io/badge/Jira-white?logo=Jira&logoColor=264970)]()
+
+[![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
+
+[![](https://img.shields.io/badge/Google_Meet-F3E8E9?logo=google-meet&logoColor=058D7F)]()
+[![](https://img.shields.io/badge/Zoom-4A8CFF?logo=zoom&logoColor=)]()
+[![](https://img.shields.io/badge/Slack-3CB187?logo=slack&logoColor=DFA22F)]()
 
 ---
 
 ### Projects
 
-[![](https://img.shields.io/badge/Google%20Sheets-gray?logo=google-sheets&logoColor=)]()
+[![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
 
 ---
 
 ### Education
 
-[![](https://img.shields.io/badge/Codecademy-gray?logo=codecademy&logoColor=)]()
-[![](https://img.shields.io/badge/W3Schools-gray?logo=W3Schools&logoColor=)]()
-
-[![](https://img.shields.io/badge/GIT-gray?logo=git&logoColor=)]()
-[![](https://img.shields.io/badge/gitignore%20io-gray?logo=gitignoredotio&logoColor=)]()
-[![](https://img.shields.io/badge/GitHub_Actions-gray?logo=github-actions&logoColor=)]()
-[![](https://img.shields.io/badge/GitLab-gray?logo=gitlab&logoColor=)]()
-
-[![](https://img.shields.io/badge/Amazon_AWS-gray?logo=amazonaws&logoColor=)]()
-[![](https://img.shields.io/badge/Netlify-gray?logo=netlify&logoColor=)]()
+[![](https://img.shields.io/badge/Codecademy-C8D0D5?logo=codecademy&logoColor=204156)]()
+[![](https://img.shields.io/badge/W3Schools-555555?logo=W3Schools&logoColor=)]()
 
 ---
 
 ### OS
 
-[![](https://img.shields.io/badge/mac%20os-gray?logo=apple&logoColor=)]()
-[![](https://img.shields.io/badge/iOS-gray?logo=ios&logoColor=)]()
+[![](https://img.shields.io/badge/MacOS-white?logo=apple&logoColor=black)]()
+[![](https://img.shields.io/badge/iOS-white?logo=ios&logoColor=black)]()
 
 ---
 
 ### Spare Time
 
-[![](https://img.shields.io/badge/Riot_Games-gray?logo=riot-games&logoColor=)]()
-[![](https://img.shields.io/badge/PlayStation-gray?logo=playstation&logoColor=)]()
-[![](https://img.shields.io/badge/Battle.net-gray?logo=battle.net&logoColor=)]()
+[![](https://img.shields.io/badge/Riot_Games-7C2224?logo=riot-games&logoColor=)]()
+[![](https://img.shields.io/badge/PlayStation-0083C5?logo=playstation&logoColor=F7C60E)]()
+[![](https://img.shields.io/badge/Battle.net-DDDDDC?logo=battle.net&logoColor=0092D3)]()
 
 ---
 
