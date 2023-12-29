@@ -16,9 +16,18 @@
 
 ### Experience
 
+as **Automation QAE** :
+
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
+[![](https://img.shields.io/badge/pytest-ffde57?logo=pytest&logoColor=4584b6)]()
 [![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
 [![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
+
+[![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]()
+[![](https://img.shields.io/badge/npm-white?logo=npm&logoColor=cb3837)]()
+[![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]()
+[![](https://img.shields.io/badge/Cucumber-F3FBF4?logo=cucumber&logoColor=00A818)]()
+[![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
 
 [![](https://img.shields.io/badge/Google_Chrome-34a853?logo=Google-chrome&logoColor=white)]()
 [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]()
@@ -27,12 +36,6 @@
 
 [![](https://img.shields.io/badge/Postman-white?logo=Postman&logoColor=ef5b25)]()
 [![](https://img.shields.io/badge/JSON-gray?logo=json&logoColor=)]()
-
-[![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]()
-[![](https://img.shields.io/badge/npm-white?logo=npm&logoColor=cb3837)]()
-[![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]()
-[![](https://img.shields.io/badge/Cucumber-F3FBF4?logo=cucumber&logoColor=00A818)]()
-[![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
 
 [![](https://img.shields.io/badge/Git-white?logo=git&logoColor=f34f29)]()
 [![](https://img.shields.io/badge/gitignore.io-white?logo=gitignoredotio&logoColor=204ecf)]()
