@@ -1,4 +1,7 @@
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanhelina-lunova%2F&count_bg=%23DC4589&title_bg=%23A180FB&icon=&icon_color=%238E6D6D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+---
 
 ![](https://github-profile-trophy.vercel.app/?username=anhelina-lunova&theme=radical)
 
@@ -16,42 +19,50 @@
 
 ### Experience
 
-as **Automation QAE** :
+as **Automation QAE** with :
 
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
-[![](https://img.shields.io/badge/pytest-ffde57?logo=pytest&logoColor=4584b6)]()
+[![](https://img.shields.io/badge/pytest-white?logo=pytest&logoColor=)]()
 [![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
 [![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
 
+[![](https://img.shields.io/badge/Google_Chrome-34a853?logo=Google-chrome&logoColor=white)]()
+[![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]()
+[![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]()
+[![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]()
 [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]()
 [![](https://img.shields.io/badge/npm-white?logo=npm&logoColor=cb3837)]()
 [![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]()
 [![](https://img.shields.io/badge/Cucumber-F3FBF4?logo=cucumber&logoColor=00A818)]()
 [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
 
-[![](https://img.shields.io/badge/Google_Chrome-34a853?logo=Google-chrome&logoColor=white)]()
-[![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]()
-[![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]()
-[![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]()
-
-[![](https://img.shields.io/badge/Postman-white?logo=Postman&logoColor=ef5b25)]()
-[![](https://img.shields.io/badge/JSON-gray?logo=json&logoColor=)]()
-
 [![](https://img.shields.io/badge/Git-white?logo=git&logoColor=f34f29)]()
 [![](https://img.shields.io/badge/gitignore.io-white?logo=gitignoredotio&logoColor=204ecf)]()
 [![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
 [![](https://img.shields.io/badge/GitLab-white?logo=gitlab&logoColor=)]()
 
+as **Manual QAE** with :
+
+[![](https://img.shields.io/badge/Postman-white?logo=Postman&logoColor=ef5b25)]()
+[![](https://img.shields.io/badge/JSON-gray?logo=json&logoColor=)]()
+
 [![](https://img.shields.io/badge/MySQL-00688F?logo=mysql&logoColor=E48E1A)]()
 [![](https://img.shields.io/badge/SQLite-66B9E7?logo=sqlite&logoColor=003B57)]()
+
+other :
+
+[![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
+[![](https://img.shields.io/badge/Tableau-white?logo=tableau&logoColor=D9233B)]()
+[![](https://img.shields.io/badge/SimilarWeb-gray?logo=similarweb&logoColor=)]()
+[![](https://img.shields.io/badge/ahrefs-gray?logo=ahrefs&logoColor=)]()
 
 [![](https://img.shields.io/badge/Amazon_AWS-252F3E?logo=amazonaws&logoColor=FF9900)]()
 [![](https://img.shields.io/badge/Netlify-white?logo=netlify&logoColor=teal)]()
 
 [![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
 [![](https://img.shields.io/badge/Jira-white?logo=Jira&logoColor=264970)]()
-
-[![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
+[![](https://img.shields.io/badge/YouTrack-white?logo=youtrack&logoColor=264970)]()
+[![](https://img.shields.io/badge/Trello-white?logo=trello&logoColor=264970)]()
 
 [![](https://img.shields.io/badge/Google_Meet-F3E8E9?logo=google-meet&logoColor=058D7F)]()
 [![](https://img.shields.io/badge/Zoom-4A8CFF?logo=zoom&logoColor=)]()
@@ -76,6 +87,10 @@ as **Automation QAE** :
 
 [![](https://img.shields.io/badge/MacOS-white?logo=apple&logoColor=black)]()
 [![](https://img.shields.io/badge/iOS-white?logo=ios&logoColor=black)]()
+[![](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black)]()
+[![](https://img.shields.io/badge/Windows-white?logo=windows&logoColor=black)]()
+[![](https://img.shields.io/badge/Android-white?logo=android&logoColor=black)]()
+
 
 ---
 
