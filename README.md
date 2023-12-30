@@ -9,6 +9,9 @@
 
 ### Contact
 
+[![](https://img.shields.io/badge/test-gray?logo=&logoColor=)]()
+
+
 [![](https://img.shields.io/badge/Gmail-08851b?logo=gmail&logoColor=)]()
 [![](https://img.shields.io/badge/LinkedIn-00a0dc?&logo=linkedin&logoColor=)](https://www.linkedin.com/in/anhelina-lunova/)
 [![](https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=)](https://t.me/QAngieL)
@@ -48,6 +51,7 @@ as **Manual QAE** with :
 
 [![](https://img.shields.io/badge/MySQL-00688F?logo=mysql&logoColor=E48E1A)]()
 [![](https://img.shields.io/badge/SQLite-66B9E7?logo=sqlite&logoColor=003B57)]()
+[![](https://img.shields.io/badge/DBeaver-gray?logo=dbeaver&logoColor=)]()
 
 other :
 
@@ -59,8 +63,9 @@ other :
 [![](https://img.shields.io/badge/Amazon_AWS-252F3E?logo=amazonaws&logoColor=FF9900)]()
 [![](https://img.shields.io/badge/Netlify-white?logo=netlify&logoColor=teal)]()
 
+[![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
 [![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
-[![](https://img.shields.io/badge/Jira-white?logo=Jira&logoColor=264970)]()
+[![](https://img.shields.io/badge/JIRA-white?logo=Jira&logoColor=264970)]()
 [![](https://img.shields.io/badge/YouTrack-white?logo=youtrack&logoColor=264970)]()
 [![](https://img.shields.io/badge/Trello-white?logo=trello&logoColor=264970)]()
 
