@@ -9,8 +9,9 @@
 
 ### Contact
 
+<!--
 [![](https://img.shields.io/badge/test-gray?logo=&logoColor=)]()
-
+-->
 
 [![](https://img.shields.io/badge/Gmail-08851b?logo=gmail&logoColor=)]()
 [![](https://img.shields.io/badge/LinkedIn-00a0dc?&logo=linkedin&logoColor=)](https://www.linkedin.com/in/anhelina-lunova/)
@@ -102,15 +103,17 @@ other :
 ### Spare Time
 
 [![](https://img.shields.io/badge/Riot_Games-7C2224?logo=riot-games&logoColor=)]()
+<!--
 [![](https://img.shields.io/badge/PlayStation-0083C5?logo=playstation&logoColor=F7C60E)]()
 [![](https://img.shields.io/badge/Battle.net-DDDDDC?logo=battle.net&logoColor=0092D3)]()
+-->
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhelina-lunova&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anhelina-lunova&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhelina-lunova&theme=onedark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anhelina-lunova&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anhelina-lunova&theme=onedark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anhelina-lunova&layout=donut&hide_border=true&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anhelina-lunova&theme=onedark)
 ![](https://github-readme-streak-stats.herokuapp.com?user=anhelina-lunova&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhelina-lunova&theme=onedark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhelina-lunova&theme=onedark)
