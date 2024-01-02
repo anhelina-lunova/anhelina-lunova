@@ -3,7 +3,7 @@
 
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=anhelina-lunova&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=anhelina-lunova&theme=onedark&no-bg=true)
 
 ---
 
@@ -107,10 +107,10 @@ other :
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhelina-lunova&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anhelina-lunova&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhelina-lunova&theme=radical&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anhelina-lunova&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anhelina-lunova&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anhelina-lunova&layout=donut&hide_border=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com?user=anhelina-lunova&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhelina-lunova&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anhelina-lunova&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhelina-lunova&theme=onedark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anhelina-lunova&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anhelina-lunova&theme=onedark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anhelina-lunova&layout=donut&hide_border=true&theme=onedark)
+![](https://github-readme-streak-stats.herokuapp.com?user=anhelina-lunova&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=onedark)
