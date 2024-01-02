@@ -55,7 +55,7 @@ as **Manual QAE** with :
 
 other :
 
-[![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
+[![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)](https://www.figma.com/@anhelinalunova)
 [![](https://img.shields.io/badge/Tableau-white?logo=tableau&logoColor=D9233B)]()
 [![](https://img.shields.io/badge/SimilarWeb-gray?logo=similarweb&logoColor=)]()
 [![](https://img.shields.io/badge/ahrefs-gray?logo=ahrefs&logoColor=)]()
