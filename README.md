@@ -7,17 +7,21 @@
 
 ---
 
-### Contact
+### Projects
 
-<!--
-[![](https://img.shields.io/badge/test-gray?logo=&logoColor=)]()
--->
+[![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() 
+[![](https://img.shields.io/badge/pytest-white?logo=pytest&logoColor=)]()
+[![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
+[![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
+- [EPAM_IT-Marathon-3.0]()
 
-[![](https://img.shields.io/badge/Gmail-08851b?logo=gmail&logoColor=)]()
-[![](https://img.shields.io/badge/LinkedIn-00a0dc?&logo=linkedin&logoColor=)](https://www.linkedin.com/in/anhelina-lunova/)
-[![](https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=)](https://t.me/QAngieL)
-[![](https://img.shields.io/badge/Instagram-c13584?logo=instagram&logoColor=FFDC80)](https://www.instagram.com/)
-[![](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=)](https://github.com/anhelina-lunova/)
+[![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
+- [Hearts-Game-python](https://github.com/anhelina-lunova/Hearts-Game-python)
+
+[![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+- [Followers Activity Tracking and Visualization for Instagram & Telegram: Charting Your Social Media Growth](https://docs.google.com/spreadsheets/d/1PJ_Lt4JI1DV1i2FFNkLfWX-A0y1YPIkvdkw5I4u1_8c/)
+- [From Hero to Zero: Unveiling a Blogger's Decline Through Telegram Analytics](https://docs.google.com/spreadsheets/d/1B9S5YdpZwFf1SdfC0B3YG55x7lnxtkEyJDZO2kCEsDA/)
+- [Poker Game](https://docs.google.com/spreadsheets/d/1-v1CfSJl_dX9F8ruMRk5KdnKXWKCoQOlULotSU6gQwk/)
 
 ---
 
@@ -64,6 +68,7 @@ other :
 [![](https://img.shields.io/badge/Amazon_AWS-252F3E?logo=amazonaws&logoColor=FF9900)]()
 [![](https://img.shields.io/badge/Netlify-white?logo=netlify&logoColor=teal)]()
 
+[![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
 [![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
 [![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
 [![](https://img.shields.io/badge/JIRA-white?logo=Jira&logoColor=264970)]()
@@ -76,19 +81,10 @@ other :
 
 ---
 
-### Projects
-
-[![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
-- [Followers Activity Tracking and Visualization for Instagram & Telegram: Charting Your Social Media Growth](https://docs.google.com/spreadsheets/d/1PJ_Lt4JI1DV1i2FFNkLfWX-A0y1YPIkvdkw5I4u1_8c/)
-- [From Hero to Zero: Unveiling a Blogger's Decline Through Telegram Analytics](https://docs.google.com/spreadsheets/d/1B9S5YdpZwFf1SdfC0B3YG55x7lnxtkEyJDZO2kCEsDA/)
-- [Poker Game](https://docs.google.com/spreadsheets/d/1-v1CfSJl_dX9F8ruMRk5KdnKXWKCoQOlULotSU6gQwk/)
-
----
-
 ### Education
 
-[![](https://img.shields.io/badge/Codecademy-C8D0D5?logo=codecademy&logoColor=204156)]()
 [![](https://img.shields.io/badge/W3Schools-555555?logo=W3Schools&logoColor=)]()
+[![](https://img.shields.io/badge/Codecademy-C8D0D5?logo=codecademy&logoColor=204156)]()
 
 ---
 
@@ -100,7 +96,6 @@ other :
 [![](https://img.shields.io/badge/Windows-white?logo=windows&logoColor=black)]()
 [![](https://img.shields.io/badge/Android-white?logo=android&logoColor=black)]()
 
-
 ---
 
 ### Spare Time
@@ -110,6 +105,20 @@ other :
 [![](https://img.shields.io/badge/PlayStation-0083C5?logo=playstation&logoColor=F7C60E)]()
 [![](https://img.shields.io/badge/Battle.net-DDDDDC?logo=battle.net&logoColor=0092D3)]()
 -->
+
+---
+
+### Contact
+
+<!--
+[![](https://img.shields.io/badge/test-gray?logo=&logoColor=)]()
+-->
+
+[![](https://img.shields.io/badge/Gmail-08851b?logo=gmail&logoColor=)]()
+[![](https://img.shields.io/badge/LinkedIn-00a0dc?&logo=linkedin&logoColor=)](https://www.linkedin.com/in/anhelina-lunova/)
+[![](https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=)](https://t.me/QAngieL)
+[![](https://img.shields.io/badge/Instagram-c13584?logo=instagram&logoColor=FFDC80)](https://www.instagram.com/)
+[![](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=)](https://github.com/anhelina-lunova/)
 
 ---
 
