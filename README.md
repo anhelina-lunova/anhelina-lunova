@@ -13,7 +13,7 @@
 [![](https://img.shields.io/badge/pytest-white?logo=pytest&logoColor=)]()
 [![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
 [![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
-- [EPAM_IT-Marathon-3.0]()
+- [EPAM_IT-Marathon-3.0](https://github.com/anhelina-lunova/EPAM_IT-Marathon-3.0)
 
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
 - [Hearts-Game-python](https://github.com/anhelina-lunova/Hearts-Game-python)
