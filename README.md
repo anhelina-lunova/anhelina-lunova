@@ -17,17 +17,17 @@
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
 - [Hearts-Game-python](https://github.com/anhelina-lunova/Hearts-Game-python)
 
+[![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]()
 [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]()
 [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]()
-[![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]()
 - [E2E Tests](https://github.com/anhelina-lunova/Cypress-E2E-Tests)
 - [Page Object Pattern](https://github.com/anhelina-lunova/Cypress-Page-Object-Pattern)
 - [HTTP API Tests_+ CI/CD](https://github.com/anhelina-lunova/Cypress-HTTP-API-Tests_CI-CD)
 - [Artillery Performance Tests](https://github.com/anhelina-lunova/Artillery-Performance-Tests)
 
+[![](https://img.shields.io/badge/Cucumber-F3FBF4?logo=cucumber&logoColor=00A818)]()
 [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]()
 [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]()
-[![](https://img.shields.io/badge/Cucumber-F3FBF4?logo=cucumber&logoColor=00A818)]()
 - [BDD Gherkin Cucumber](https://github.com/anhelina-lunova/BDD-Gherkin-Cucumber)
 
 [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
