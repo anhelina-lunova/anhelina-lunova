@@ -12,11 +12,19 @@
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() 
 [![](https://img.shields.io/badge/pytest-white?logo=pytest&logoColor=)]()
 [![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
-[![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
 - [EPAM_IT-Marathon-3.0](https://github.com/anhelina-lunova/EPAM_IT-Marathon-3.0)
 
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
 - [Hearts-Game-python](https://github.com/anhelina-lunova/Hearts-Game-python)
+
+[![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]()
+[![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]()
+[![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]()
+- [E2E Tests](https://github.com/anhelina-lunova/Cypress-E2E-Tests)
+- [Page Object Pattern](https://github.com/anhelina-lunova/Cypress-Page-Object-Pattern)
+- [HTTP API Tests_+ CI/CD](https://github.com/anhelina-lunova/Cypress-HTTP-API-Tests_CI-CD)
+- [Artillery Performance Tests](https://github.com/anhelina-lunova/Artillery-Performance-Tests)
+- [BDD Gherkin Cucumber](https://github.com/anhelina-lunova/BDD-Gherkin-Cucumber)
 
 [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
 - [Followers Activity Tracking and Visualization for Instagram & Telegram: Charting Your Social Media Growth](https://docs.google.com/spreadsheets/d/1PJ_Lt4JI1DV1i2FFNkLfWX-A0y1YPIkvdkw5I4u1_8c/)
@@ -60,6 +68,13 @@ as **Manual QAE** with :
 
 other :
 
+[![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+[![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
+[![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
+[![](https://img.shields.io/badge/JIRA-white?logo=Jira&logoColor=264970)]()
+[![](https://img.shields.io/badge/YouTrack-white?logo=youtrack&logoColor=264970)]()
+[![](https://img.shields.io/badge/Trello-white?logo=trello&logoColor=264970)]()
+
 [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)](https://www.figma.com/@anhelinalunova)
 [![](https://img.shields.io/badge/Tableau-white?logo=tableau&logoColor=D9233B)]()
 [![](https://img.shields.io/badge/SimilarWeb-gray?logo=similarweb&logoColor=)]()
@@ -68,23 +83,9 @@ other :
 [![](https://img.shields.io/badge/Amazon_AWS-252F3E?logo=amazonaws&logoColor=FF9900)]()
 [![](https://img.shields.io/badge/Netlify-white?logo=netlify&logoColor=teal)]()
 
-[![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
-[![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
-[![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
-[![](https://img.shields.io/badge/JIRA-white?logo=Jira&logoColor=264970)]()
-[![](https://img.shields.io/badge/YouTrack-white?logo=youtrack&logoColor=264970)]()
-[![](https://img.shields.io/badge/Trello-white?logo=trello&logoColor=264970)]()
-
 [![](https://img.shields.io/badge/Google_Meet-F3E8E9?logo=google-meet&logoColor=058D7F)]()
 [![](https://img.shields.io/badge/Zoom-4A8CFF?logo=zoom&logoColor=)]()
 [![](https://img.shields.io/badge/Slack-3CB187?logo=slack&logoColor=DFA22F)]()
-
----
-
-### Education
-
-[![](https://img.shields.io/badge/W3Schools-555555?logo=W3Schools&logoColor=)]()
-[![](https://img.shields.io/badge/Codecademy-C8D0D5?logo=codecademy&logoColor=204156)]()
 
 ---
 
@@ -105,6 +106,13 @@ other :
 [![](https://img.shields.io/badge/PlayStation-0083C5?logo=playstation&logoColor=F7C60E)]()
 [![](https://img.shields.io/badge/Battle.net-DDDDDC?logo=battle.net&logoColor=0092D3)]()
 -->
+
+---
+
+### Education
+
+[![](https://img.shields.io/badge/W3Schools-555555?logo=W3Schools&logoColor=)]()
+[![](https://img.shields.io/badge/Codecademy-C8D0D5?logo=codecademy&logoColor=204156)]()
 
 ---
 
