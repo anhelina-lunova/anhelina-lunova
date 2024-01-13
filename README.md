@@ -6,16 +6,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=anhelina-lunova&theme=onedark&no-bg=true)
 
 ---
+# Experience
 
-### Projects
+### AQA Projects
 
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() 
 [![](https://img.shields.io/badge/pytest-white?logo=pytest&logoColor=)]()
 [![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
 - [EPAM_IT-Marathon-3.0](https://github.com/anhelina-lunova/EPAM_IT-Marathon-3.0)
-
-[![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
-- [Hearts-Game-python](https://github.com/anhelina-lunova/Hearts-Game-python)
 
 [![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]()
 [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]()
@@ -30,6 +28,11 @@
 [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]()
 - [BDD Gherkin Cucumber](https://github.com/anhelina-lunova/BDD-Gherkin-Cucumber)
 
+### Other Projects
+
+[![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
+- [Hearts-Game-python](https://github.com/anhelina-lunova/Hearts-Game-python)
+
 [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
 - [Followers Activity Tracking and Visualization for Instagram & Telegram: Charting Your Social Media Growth](https://docs.google.com/spreadsheets/d/1PJ_Lt4JI1DV1i2FFNkLfWX-A0y1YPIkvdkw5I4u1_8c/)
 - [From Hero to Zero: Unveiling a Blogger's Decline Through Telegram Analytics](https://docs.google.com/spreadsheets/d/1B9S5YdpZwFf1SdfC0B3YG55x7lnxtkEyJDZO2kCEsDA/)
@@ -37,9 +40,7 @@
 
 ---
 
-### Experience
-
-as **Automation QAE** with :
+as **Automation QAE** familiar with :
 
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
 [![](https://img.shields.io/badge/pytest-white?logo=pytest&logoColor=)]()
@@ -61,7 +62,7 @@ as **Automation QAE** with :
 [![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
 [![](https://img.shields.io/badge/GitLab-white?logo=gitlab&logoColor=)]()
 
-as **Manual QAE** with :
+as **Manual QAE** familiar with :
 
 [![](https://img.shields.io/badge/Postman-white?logo=Postman&logoColor=ef5b25)]()
 [![](https://img.shields.io/badge/JSON-gray?logo=json&logoColor=)]()
