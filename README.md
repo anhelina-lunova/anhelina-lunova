@@ -8,6 +8,11 @@
 ---
 # Experience
 
+### MQA Projects
+
+[![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
+- [GoIT Website Bug Reports](https://qangiel.notion.site/8a0e4581408842e48f6ab6b7c49a1c34?v=8dc96aca90964276a4926924b2be66a8&pvs=4)
+
 ### AQA Projects
 
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() 
