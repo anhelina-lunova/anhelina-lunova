@@ -6,6 +6,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=anhelina-lunova&theme=onedark&no-bg=true)
 
 ---
+# About me
+
+
 # Experience
 
 ### MQA Projects
@@ -109,20 +112,20 @@ other :
 
 ---
 
-### Spare Time
+# Education
+
+[![](https://img.shields.io/badge/W3Schools-555555?logo=W3Schools&logoColor=)]()
+[![](https://img.shields.io/badge/Codecademy-C8D0D5?logo=codecademy&logoColor=204156)]()
+
+---
+
+# Spare Time
 
 [![](https://img.shields.io/badge/Riot_Games-7C2224?logo=riot-games&logoColor=)]()
 <!--
 [![](https://img.shields.io/badge/PlayStation-0083C5?logo=playstation&logoColor=F7C60E)]()
 [![](https://img.shields.io/badge/Battle.net-DDDDDC?logo=battle.net&logoColor=0092D3)]()
 -->
-
----
-
-### Education
-
-[![](https://img.shields.io/badge/W3Schools-555555?logo=W3Schools&logoColor=)]()
-[![](https://img.shields.io/badge/Codecademy-C8D0D5?logo=codecademy&logoColor=204156)]()
 
 ---
 
