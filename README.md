@@ -137,7 +137,7 @@ OS :
 
 ---
 
-# Contacts
+# ☎ Contacts
 
 [![](https://img.shields.io/badge/Gmail-08851b?logo=gmail&logoColor=)]()
 [![](https://img.shields.io/badge/LinkedIn-00a0dc?&logo=linkedin&logoColor=)](https://www.linkedin.com/in/anhelina-lunova/)
@@ -146,7 +146,7 @@ OS :
 
 ---
 
-# Profile Stats
+# 📈 Profile Stats
 
 ![](https://github-profile-trophy.vercel.app/?username=anhelina-lunova&theme=onedark&no-bg=true)
 
