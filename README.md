@@ -2,14 +2,14 @@
 
 ### 🧭 Navigation
 
-- [About Me](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-about-me)
-- [Experience](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-experience)
-  - [MQA Projects](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-mqa-projects)
-  - [AQA Projects](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-aqa-projects)
-  - [Other Projects](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-other-projects)
-- [Tools & Technologies](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-tools-&-technologies)
-- [Contacts](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-contacts)
-- [Profile Stats](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-profile-stats)
+- [About Me](https://github.com/anhelina-lunova#%EF%B8%8F-about-me)
+- [Experience](https://github.com/anhelina-lunova#experience)
+  - [MQA Projects](https://github.com/anhelina-lunova#mqa-projects)
+  - [AQA Projects](https://github.com/anhelina-lunova#mqa-projects)
+  - [Other Projects](https://github.com/anhelina-lunova#other-projects)
+- [Tools & Technologies](https://github.com/anhelina-lunova#%EF%B8%8F-tools--technologies)
+- [Contacts](https://github.com/anhelina-lunova#contacts)
+- [Profile Stats](https://github.com/anhelina-lunova#profile-stats)
 
 # 🕵🏻‍♀️ About me
 
