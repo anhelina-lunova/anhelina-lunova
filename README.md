@@ -1,13 +1,37 @@
+# 👋🏽 Hey there!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanhelina-lunova%2F&count_bg=%23DC4589&title_bg=%23A180FB&icon=&icon_color=%238E6D6D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 🧭 Navigation
+
+- [About Me](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-about-me)
+- [Experience](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-experience)
+  - [MQA Projects](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-mqa-projects)
+  - [AQA Projects](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-aqa-projects)
+  - [Other Projects](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-other-projects)
+- [Tools & Technologies](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-tools-&-technologies)
+- [Contacts](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-contacts)
+- [Profile Stats](https://github.com/anhelina-lunova/anhelina-lunova/blob/main/README.md#-profile-stats)
+
+# 🕵🏻‍♀️ About me
+
+Driven QA engineer with an unwavering commitment to crafting exceptional software.
+
+**🔍 My focus** :
+- *Obsessed with meticulous refinement* : Every detail is meticulously honed to ensure a flawless user experience. 
+- Fueled by ambition and a thirst for growth within the QA field, I relentlessly hone my skills to become an invaluable asset.
+
+**🦾 Strengths** :
+- *Eagle-eyed attention to detail* : No bug escapes my scrutiny, ensuring a seamless user experience.
+- *Empathetic user advocate* : I see through the software, anticipating user needs and ensuring a delightful experience.
+- *Collaborative problem solver* : I thrive in team environments, effectively sharing knowledge and crafting innovative solutions to optimize processes and elevate results.
+
+**🧠 Arsenal** :
+- *Proven track record* : My past roles have honed my proactive skills, analytical thinking, and team player spirit.
+- *Solid QA foundation* : From SDLC, STLC, and Agile methodologies to bug-tracking mastery and error-reporting finesse, I'm equipped for any challenge.
+- *Tech-savvy and learning-hungry* : My tech arsenal ranges from basic coding skills to diverse QA tools, and I'm always eager to expand it.
+
+🤝🏻 I'm eager to leverage my dedication to quality and collaborative spirit to build a mutually beneficial partnership where my skills elevate success.
 
 ---
-
-![](https://github-profile-trophy.vercel.app/?username=anhelina-lunova&theme=onedark&no-bg=true)
-
----
-# About me
-
 
 # Experience
 
@@ -48,6 +72,17 @@
 
 ---
 
+# 🛠️ Tools & Technologies
+
+as **Manual QAE** familiar with :
+
+[![](https://img.shields.io/badge/Postman-white?logo=Postman&logoColor=ef5b25)]()
+[![](https://img.shields.io/badge/JSON-gray?logo=json&logoColor=)]()
+
+[![](https://img.shields.io/badge/MySQL-00688F?logo=mysql&logoColor=E48E1A)]()
+[![](https://img.shields.io/badge/SQLite-66B9E7?logo=sqlite&logoColor=003B57)]()
+[![](https://img.shields.io/badge/DBeaver-gray?logo=dbeaver&logoColor=)]()
+
 as **Automation QAE** familiar with :
 
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
@@ -69,17 +104,9 @@ as **Automation QAE** familiar with :
 [![](https://img.shields.io/badge/gitignore.io-white?logo=gitignoredotio&logoColor=204ecf)]()
 [![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
 [![](https://img.shields.io/badge/GitLab-white?logo=gitlab&logoColor=)]()
+[![](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=)]()
 
-as **Manual QAE** familiar with :
-
-[![](https://img.shields.io/badge/Postman-white?logo=Postman&logoColor=ef5b25)]()
-[![](https://img.shields.io/badge/JSON-gray?logo=json&logoColor=)]()
-
-[![](https://img.shields.io/badge/MySQL-00688F?logo=mysql&logoColor=E48E1A)]()
-[![](https://img.shields.io/badge/SQLite-66B9E7?logo=sqlite&logoColor=003B57)]()
-[![](https://img.shields.io/badge/DBeaver-gray?logo=dbeaver&logoColor=)]()
-
-other :
+Other :
 
 [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
 [![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
@@ -90,7 +117,7 @@ other :
 
 [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)](https://www.figma.com/@anhelinalunova)
 [![](https://img.shields.io/badge/Tableau-white?logo=tableau&logoColor=D9233B)]()
-[![](https://img.shields.io/badge/SimilarWeb-gray?logo=similarweb&logoColor=)]()
+[![](https://img.shields.io/badge/SimilarWeb-gray?logo=similarweb&logoColor=&logoColor=F24E1E)]()
 [![](https://img.shields.io/badge/ahrefs-gray?logo=ahrefs&logoColor=)]()
 
 [![](https://img.shields.io/badge/Amazon_AWS-252F3E?logo=amazonaws&logoColor=FF9900)]()
@@ -100,9 +127,7 @@ other :
 [![](https://img.shields.io/badge/Zoom-4A8CFF?logo=zoom&logoColor=)]()
 [![](https://img.shields.io/badge/Slack-3CB187?logo=slack&logoColor=DFA22F)]()
 
----
-
-### OS
+OS :
 
 [![](https://img.shields.io/badge/MacOS-white?logo=apple&logoColor=black)]()
 [![](https://img.shields.io/badge/iOS-white?logo=ios&logoColor=black)]()
@@ -112,36 +137,18 @@ other :
 
 ---
 
-# Education
-
-[![](https://img.shields.io/badge/W3Schools-555555?logo=W3Schools&logoColor=)]()
-[![](https://img.shields.io/badge/Codecademy-C8D0D5?logo=codecademy&logoColor=204156)]()
-
----
-
-# Spare Time
-
-[![](https://img.shields.io/badge/Riot_Games-7C2224?logo=riot-games&logoColor=)]()
-<!--
-[![](https://img.shields.io/badge/PlayStation-0083C5?logo=playstation&logoColor=F7C60E)]()
-[![](https://img.shields.io/badge/Battle.net-DDDDDC?logo=battle.net&logoColor=0092D3)]()
--->
-
----
-
-### Contact
-
-<!--
-[![](https://img.shields.io/badge/test-gray?logo=&logoColor=)]()
--->
+# Contacts
 
 [![](https://img.shields.io/badge/Gmail-08851b?logo=gmail&logoColor=)]()
 [![](https://img.shields.io/badge/LinkedIn-00a0dc?&logo=linkedin&logoColor=)](https://www.linkedin.com/in/anhelina-lunova/)
 [![](https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=)](https://t.me/QAngieL)
 [![](https://img.shields.io/badge/Instagram-c13584?logo=instagram&logoColor=FFDC80)](https://www.instagram.com/)
-[![](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=)](https://github.com/anhelina-lunova/)
 
 ---
+
+# Profile Stats
+
+![](https://github-profile-trophy.vercel.app/?username=anhelina-lunova&theme=onedark&no-bg=true)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anhelina-lunova&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anhelina-lunova&theme=onedark)
@@ -150,3 +157,9 @@ other :
 ![](https://github-readme-streak-stats.herokuapp.com?user=anhelina-lunova&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhelina-lunova&theme=onedark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhelina-lunova&theme=onedark)
+
+---
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanhelina-lunova%2F&count_bg=%23DC4589&title_bg=%23A180FB&icon=&icon_color=%238E6D6D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+---
