@@ -1,4 +1,4 @@
-# 「 ✦ 👋🏽 Hey there! Welcome to Angie's GitHub Page ✦ 」
+# 「 ✦ 👋🏽 Hey there! Welcome to Angie's GitHub Page 🇺🇦 ✦ 」
 
 ### 🧭 Navigation
 
