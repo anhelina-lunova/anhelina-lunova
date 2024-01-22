@@ -5,7 +5,7 @@
 - [About Me](https://github.com/anhelina-lunova#%EF%B8%8F-about-me)
 - [Experience](https://github.com/anhelina-lunova#experience)
   - [MQA Projects](https://github.com/anhelina-lunova#mqa-projects)
-  - [AQA Projects](https://github.com/anhelina-lunova#mqa-projects)
+  - [AQA Projects](https://github.com/anhelina-lunova#aqa-projects)
   - [Other Projects](https://github.com/anhelina-lunova#other-projects)
 - [Tools & Technologies](https://github.com/anhelina-lunova#%EF%B8%8F-tools--technologies)
 - [Contacts](https://github.com/anhelina-lunova#contacts)
