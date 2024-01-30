@@ -8,7 +8,8 @@
   - [AQA Projects](https://github.com/anhelina-lunova#aqa-projects)
   - [Other Projects](https://github.com/anhelina-lunova#other-projects)
 - [Tools & Technologies](https://github.com/anhelina-lunova#%EF%B8%8F-tools--technologies)
-- [Contacts](https://github.com/anhelina-lunova#-contacts)
+- [Recommendations](https://github.com/anhelina-lunova#-contacts)
+- [Contacts](https://github.com/anhelina-lunova#-received-recommendations)
 - [Profile Stats](https://github.com/anhelina-lunova#-profile-stats)
 
 # 🕵🏻‍♀️ About me
@@ -147,6 +148,14 @@ OS :
 [![](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black)]()
 [![](https://img.shields.io/badge/Windows-white?logo=windows&logoColor=black)]()
 [![](https://img.shields.io/badge/Android-white?logo=android&logoColor=black)]()
+
+---
+
+# 📝 Received Recommendations
+
+- [Yevhen Petrunkin](https://www.linkedin.com/in/yevhen-petrunkin), Developer, Project: V7Pro Career Bot - [*Link to Recommendation*](https://www.youtube.com/watch?v=IykuTZ-Y5yg&t=1978s)
+- [Oleksii Dereviankin](https://www.linkedin.com/in/oleksii-dereviankin-001035249), Mentor at GoIT School - [*Link to Recommendation*](https://www.linkedin.com/in/anhelina-lunova/details/recommendations/)
+- From Former Colleagues - [*Link to Recommendations*](https://www.linkedin.com/in/anhelina-lunova/details/recommendations/)
 
 ---
 
