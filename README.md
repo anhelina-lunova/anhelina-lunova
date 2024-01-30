@@ -3,7 +3,7 @@
 ### 🧭 Navigation
 
 - [About Me](https://github.com/anhelina-lunova#%EF%B8%8F-about-me)
-- [Experience](https://github.com/anhelina-lunova#experience)
+- [Experience](https://github.com/anhelina-lunova#-experience)
   - [MQA Projects](https://github.com/anhelina-lunova#mqa-projects)
   - [AQA Projects](https://github.com/anhelina-lunova#aqa-projects)
   - [Other Projects](https://github.com/anhelina-lunova#other-projects)
@@ -20,12 +20,12 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 - *Obsessed with meticulous refinement* : Every detail is meticulously honed to ensure a flawless user experience. 
 - Fueled by ambition and a thirst for growth within the QA field, I relentlessly hone my skills to become an invaluable asset.
 
-**🦾 Strengths** :
+**🏋🏻‍♀️ Strengths** :
 - *Eagle-eyed attention to detail* : No bug escapes my scrutiny, ensuring a seamless user experience.
 - *Empathetic user advocate* : I see through the software, anticipating user needs and ensuring a delightful experience.
 - *Collaborative problem solver* : I thrive in team environments, effectively sharing knowledge and crafting innovative solutions to optimize processes and elevate results.
 
-**🧠 Arsenal** :
+**⚔️ Arsenal** :
 - *Proven track record* : My past roles have honed my proactive skills, analytical thinking, and team player spirit.
 - *Solid QA foundation* : From SDLC, STLC, and Agile methodologies to bug-tracking mastery and error-reporting finesse, I'm equipped for any challenge.
 - *Tech-savvy and learning-hungry* : My tech arsenal ranges from basic coding skills to diverse QA tools, and I'm always eager to expand it.
@@ -36,12 +36,12 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 # 👩🏻‍💻 Experience
 
-### MQA Projects
+### 💪 MQA Projects
 
 [![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
 - [GoIT Website Bug Reports](https://qangiel.notion.site/8a0e4581408842e48f6ab6b7c49a1c34?v=8dc96aca90964276a4926924b2be66a8&pvs=4)
 
-### AQA Projects
+### 🦾 AQA Projects
 
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() 
 [![](https://img.shields.io/badge/pytest-white?logo=pytest&logoColor=)]()
@@ -61,7 +61,7 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]()
 - [BDD Gherkin Cucumber](https://github.com/anhelina-lunova/BDD-Gherkin-Cucumber)
 
-### Other Projects
+### 🎨 Other Projects
 
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
 - [Hearts-Game-python](https://github.com/anhelina-lunova/Hearts-Game-python)
@@ -155,7 +155,7 @@ OS :
 
 - [Yevhen Petrunkin](https://www.linkedin.com/in/yevhen-petrunkin), Developer, Project: V7Pro Career Bot - [*Link to Recommendation*](https://www.youtube.com/watch?v=IykuTZ-Y5yg&t=1978s)
 - [Oleksii Dereviankin](https://www.linkedin.com/in/oleksii-dereviankin-001035249), Mentor at GoIT School - [*Link to Recommendation*](https://www.linkedin.com/in/anhelina-lunova/details/recommendations/)
-- From Former Colleagues - [*Link to Recommendations*](https://www.linkedin.com/in/anhelina-lunova/details/recommendations/)
+- Former Colleagues - [*Link to Recommendations*](https://www.linkedin.com/in/anhelina-lunova/details/recommendations/)
 
 ---
 
