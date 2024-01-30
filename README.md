@@ -34,7 +34,7 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 ---
 
-# Experience
+# 👩🏻‍💻 Experience
 
 ### MQA Projects
 
@@ -159,7 +159,7 @@ OS :
 
 ---
 
-# ☎ Contacts
+# 📧 Contacts
 
 [![](https://img.shields.io/badge/Gmail-08851b?logo=gmail&logoColor=)]()
 [![](https://img.shields.io/badge/LinkedIn-00a0dc?&logo=linkedin&logoColor=)](https://www.linkedin.com/in/anhelina-lunova/)
