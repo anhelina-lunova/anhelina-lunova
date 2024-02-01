@@ -14,6 +14,42 @@
 
 # 🕵🏻‍♀️ About me
 
+- <details>
+  <summary>↩ Personal Qualities ⤵</summary>
+  
+    - Self-Motivated
+    - Conscientious
+    - Committed
+    - Inquisitive
+    - Reliable
+  </details>
+
+- Previous Position: Partner Performance Manager (NDA)
+  - <details>
+    <summary>↩ Skills️ ⤵</summary>
+    
+    - A passionate workaholic with leadership qualities who welcomes challenges
+    - I have a trained eye for catching problems and like to solve it
+    </details>
+    
+  - <details>
+      <summary>↩ Achievements ⤵</summary>
+    
+    - Being recognized as an A-Player by CMO
+    - The constant exposure to ambition and dedication within my work circle served as a constant source of inspiration, motivating me to push my own boundaries and strive for excellence
+    - Successfully built rapport with colleagues who have a unique communication style, ensuring a seamless workflow and preventing potential disruptions
+    - Transformed my understanding of spreadsheets from basic user to confident power user, significantly enhancing my personal and professional efficiency
+    - Leveraging my strong affinity for optimization and automation, I successfully implemented process improvements that enhanced the department's efficiency and productivity, allowing colleagues to focus on higher-priority tasks
+    - By fostering a culture of collaboration and mutual support, I built a strong and dependable team that consistently exceeded expectations and achieved remarkable results
+    </details>
+  
+- Desirable Position: Manual QA Engineer
+- Desirable Career Growth: Automation | General QA Engineer (Preferable: Python, Alternative: JavaScript)
+- Preferred Domains: Ed Tech, IoT, Smart Home Security, Healthcare, LifeScience, e-Commerce, Media & Entertainment
+- Preferred Company Type: Product-based Company
+
+
+<!--
 Driven QA engineer with an unwavering commitment to crafting exceptional software.
 
 **🔍 My focus** :
@@ -31,6 +67,7 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 - *Tech-savvy and learning-hungry* : My tech arsenal ranges from basic coding skills to diverse QA tools, and I'm always eager to expand it.
 
 🤝🏻 I'm eager to leverage my dedication to quality and collaborative spirit to build a mutually beneficial partnership where my skills elevate success.
+-->
 
 ---
 
@@ -153,9 +190,24 @@ OS :
 
 # 📝 Received Recommendations
 
-- [Yevhen Petrunkin](https://www.linkedin.com/in/yevhen-petrunkin), Developer, Project: V7Pro Career Bot - [*Link to Recommendation*](https://www.youtube.com/watch?v=IykuTZ-Y5yg&t=1978s)
-- [Oleksii Dereviankin](https://www.linkedin.com/in/oleksii-dereviankin-001035249), Mentor at GoIT School - [*Link to Recommendation*](https://www.linkedin.com/in/anhelina-lunova/details/recommendations/)
+- [Yevhen Petrunkin](https://www.linkedin.com/in/yevhen-petrunkin), Developer, Project: V7Pro Career Bot - [*Link to Recommendation*](https://www.youtube.com/watch?v=IykuTZ-Y5yg&t=1978s) :
+  - Meticulous
+  - Knowledgeable
+  - Familiar with Git and the basics of JavaScript
+  - Good asset to any team
+- [Oleksii Dereviankin](https://www.linkedin.com/in/oleksii-dereviankin-001035249), Mentor at GoIT School - [*Link to Recommendation*](https://www.linkedin.com/in/anhelina-lunova/details/recommendations/) :
+  - Exceptional academic performance
+  - Proactive and initiative-taking approach
+  - Eagerness to go above and beyond requirements
+  - Willingness to share knowledge
 - Former Colleagues - [*Link to Recommendations*](https://www.linkedin.com/in/anhelina-lunova/details/recommendations/)
+  - Diligent, responsible, and hardworking
+  - Absolute team player, always coming to the rescue
+  - Open, friendly, and skilled in fostering fruitful communication between teams
+  - Organizational and managerial abilities, with attention to detail
+  - Analytical and talented, capable of making quick and suitable decisions
+  - Creates a healthy and positive environment for colleagues
+  - Skillful, efficient, and knowledgeable in process optimization
 
 ---
 
