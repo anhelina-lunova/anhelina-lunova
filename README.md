@@ -48,7 +48,6 @@
 - Preferred Domains: Ed Tech, IoT, Smart Home Security, Healthcare, LifeScience, e-Commerce, Media & Entertainment
 - Preferred Company Type: Product-based Company
 
-
 <!--
 Driven QA engineer with an unwavering commitment to crafting exceptional software.
 
@@ -75,8 +74,18 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 ### 💪 MQA Projects
 
-[![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
-- [GoIT Website Bug Reports](https://qangiel.notion.site/8a0e4581408842e48f6ab6b7c49a1c34?v=8dc96aca90964276a4926924b2be66a8&pvs=4)
+- [Website Feature Analysis and Prioritization](https://docs.google.com/document/d/1KqoLgv5GNvgo2y-YbPH2Tw-J2Wy6NudL3yttZaB21Lg/edit?usp=sharing)
+- [GoIT Website: Test Cases, Test Suits, Test Run](https://drive.google.com/drive/folders/1HHN13_1eZ9KtPszwbjtaszo7TXUQH9YO?usp=sharing) [![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
+- [GoIT Website: Bug Reports](https://qangiel.notion.site/8a0e4581408842e48f6ab6b7c49a1c34?v=8dc96aca90964276a4926924b2be66a8&pvs=4) [![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
+- [Functional Testing Levels and Approaches](https://docs.google.com/document/d/15NpRarjsiOrVdD6ZMJy8Q_h4zeMo1CD4x7evhzF_7bI/edit?usp=sharing)
+- [Non-Functional / Functional / Smoke Testing >> CheckLists / Test Cases](https://docs.google.com/document/d/1yHGvSt_QwJaOuByUYB55uj010KgVWTlH7322SioyVRY/edit?usp=sharing)
+- [UK_Requirements Review](https://docs.google.com/spreadsheets/d/1zZeTro1QHRLfq5QT-_2hA40FXDgiqc2X_3zFiskBcOE/edit?usp=sharing)
+- [Specification Based Testing Techniques: Equivalence Partitioning, Boundary Value Analysis](https://docs.google.com/document/d/1_LZT9S61A0GFv2csMSaiOtw6TV130DavqhBk0cyc4Tk/edit?usp=sharing)
+- [Structure-Based Testing Techniques: Statement Coverage, Decision Coverage, Path Coverage](https://docs.google.com/document/d/1HFRO5qEqLqhtYMmIBKpLisKhB-0e_0vnZBa65KDmXUU/edit?usp=sharing)
+- [Analysis of request, method and status](https://docs.google.com/document/d/1F0FFKYIOi7LIL4j-MzXrxeRW881rv2H772-GEDlE2SM/edit?usp=sharing)
+- [JSON & XML](https://docs.google.com/document/d/1HVHKNit1GZviVC3p8Cqq_C4kS0mDOd0VwRHCowq3u-Q/edit?usp=sharing) [![](https://img.shields.io/badge/JSON-gray?logo=json&logoColor=)]()
+- [Creating Requests and Testing The Trello REST API using Postman](https://docs.google.com/document/d/1J5XjEU7O6brqvpFm1iGl6mEOlJryFzClOvFvTEkZN2g/edit?usp=sharing) [![](https://img.shields.io/badge/Postman-white?logo=Postman&logoColor=ef5b25)]() [![](https://img.shields.io/badge/Trello-white?logo=trello&logoColor=264970)]()
+- [SQL Queries](https://docs.google.com/document/d/1gTjbkwkTWP4jYk9ei0MDeYQifYZHFDHnlkVvreROxg0/edit?usp=sharing) [![](https://img.shields.io/badge/SQLite-66B9E7?logo=sqlite&logoColor=003B57)]() [![](https://img.shields.io/badge/DBeaver-gray?logo=dbeaver&logoColor=)]()
 
 ### 🦾 AQA Projects
 
