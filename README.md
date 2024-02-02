@@ -24,7 +24,7 @@
     - Reliable
   </details>
 
-- Previous Position: Partner Performance Manager (NDA)
+- Previous Position: Partner Performance Manager (Digital Marketing, NDA)
   - <details>
     <summary>↩ Skills️ ⤵</summary>
     
