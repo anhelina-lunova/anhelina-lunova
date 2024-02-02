@@ -74,7 +74,7 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 ### 💪 MQA Projects
 
-- [Website Feature Analysis and Prioritization](https://docs.google.com/document/d/1KqoLgv5GNvgo2y-YbPH2Tw-J2Wy6NudL3yttZaB21Lg/edit?usp=sharing)
+- [Website Feature Analysis and Prioritization](https://docs.google.com/document/d/1KqoLgv5GNvgo2y-YbPH2Tw-J2Wy6NudL3yttZaB21Lg/edit?usp=sharing "1st Homework")
 - [GoIT Website: Test Cases, Test Suits, Test Run](https://drive.google.com/drive/folders/1HHN13_1eZ9KtPszwbjtaszo7TXUQH9YO?usp=sharing) [![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
 - [GoIT Website: Bug Reports](https://qangiel.notion.site/8a0e4581408842e48f6ab6b7c49a1c34?v=8dc96aca90964276a4926924b2be66a8&pvs=4) [![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
 - [Functional Testing Levels and Approaches](https://docs.google.com/document/d/15NpRarjsiOrVdD6ZMJy8Q_h4zeMo1CD4x7evhzF_7bI/edit?usp=sharing)
