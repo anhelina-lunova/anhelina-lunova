@@ -89,46 +89,25 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 ### 🦾 AQA Projects
 
-[![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() 
-[![](https://img.shields.io/badge/pytest-white?logo=pytest&logoColor=)]()
-[![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
-- [EPAM - IT Marathon 3.0](https://github.com/anhelina-lunova/EPAM_IT-Marathon-3.0)
-
-[![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]()
-[![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]()
-[![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]()
-- [E2E Tests](https://github.com/anhelina-lunova/Cypress-E2E-Tests)
-- [Page Object Pattern](https://github.com/anhelina-lunova/Cypress-Page-Object-Pattern)
-- [HTTP API Tests + CI/CD](https://github.com/anhelina-lunova/Cypress-HTTP-API-Tests_CI-CD)
-- [Artillery Performance Tests](https://github.com/anhelina-lunova/Artillery-Performance-Tests)
-
-[![](https://img.shields.io/badge/Cucumber-F3FBF4?logo=cucumber&logoColor=00A818)]()
-[![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]()
-[![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]()
-- [BDD Gherkin Cucumber](https://github.com/anhelina-lunova/BDD-Gherkin-Cucumber)
+- [EPAM - IT Marathon 3.0](https://github.com/anhelina-lunova/EPAM_IT-Marathon-3.0) [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() [![](https://img.shields.io/badge/pytest-white?logo=pytest&logoColor=)]() [![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
+- [E2E Tests](https://github.com/anhelina-lunova/Cypress-E2E-Tests) [![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]() [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]() [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
+- [Page Object Pattern](https://github.com/anhelina-lunova/Cypress-Page-Object-Pattern) [![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]() [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]() [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
+- [HTTP API Tests + CI/CD](https://github.com/anhelina-lunova/Cypress-HTTP-API-Tests_CI-CD) [![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]() [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]() [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
+- [Artillery Performance Tests](https://github.com/anhelina-lunova/Artillery-Performance-Tests) [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]() [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
+- [BDD Gherkin Cucumber](https://github.com/anhelina-lunova/BDD-Gherkin-Cucumber) [![](https://img.shields.io/badge/Cucumber-F3FBF4?logo=cucumber&logoColor=00A818)]() [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]()
 
 ### 🎨 Other Projects
 
-[![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
-- [Hearts-Game-python](https://github.com/anhelina-lunova/Hearts-Game-python)
-
-[![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]()
-[![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]()
-[![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
-
-- [Prometheus - IT Marathon](https://anhelina-lunova.github.io/Prometheus-Marathon/)
-
-[![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
-- [Followers Activity Tracking and Visualization for Instagram & Telegram: Charting Your Social Media Growth](https://docs.google.com/spreadsheets/d/1PJ_Lt4JI1DV1i2FFNkLfWX-A0y1YPIkvdkw5I4u1_8c/)
-- [From Hero to Zero: Unveiling a Blogger's Decline Through Telegram Analytics](https://docs.google.com/spreadsheets/d/1B9S5YdpZwFf1SdfC0B3YG55x7lnxtkEyJDZO2kCEsDA/)
-- [Poker Game](https://docs.google.com/spreadsheets/d/1-v1CfSJl_dX9F8ruMRk5KdnKXWKCoQOlULotSU6gQwk/)
-
-
-[![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)](https://www.figma.com/@anhelinalunova)
-- [EPAM - IT Marathon 3.0](https://www.figma.com/file/nMHNOSowphKHUJaiMXlU2j/Marathon-3.0---EPAM---my-HW?type=design&node-id=35%3A7066&mode=design&t=Ykfkr19IwVUXJJZk-1)
-- [Mate Academy - UI/UX Marathon - Music App - Interactive Prototype](https://www.figma.com/proto/3vgeKW00KlWe0sjizGtM8z/%5BMate-academy%5D-UI%2FUX-marathon?page-id=151%3A15109&type=design&node-id=3389-3363&viewport=-58%2C-2815%2C0.42&t=JbjVIBnOxeIukEGh-1&scaling=scale-down&starting-point-node-id=3383%3A3140&mode=design)
-- [Prometheus - IT Marathon](https://www.figma.com/file/ZukoLuEQ3Hn5CHWRBllos9/Prometheus-UX%2FUI?type=design&node-id=0%3A1&mode=design&t=udbOqqz9FFQle1VZ-1)
-- [UI/UX Self Study](https://www.figma.com/file/h2jypHd6XDWwGhApZBlN0Z/HomeworksUIUX?type=design&node-id=0%3A1&mode=design&t=AasJGB4mpj470aUS-1)
+- [Hearts-Game-python](https://github.com/anhelina-lunova/Hearts-Game-python) [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() [![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
+- [Prometheus - IT Marathon](https://anhelina-lunova.github.io/Prometheus-Marathon/) [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]() [![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]() [![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
+- [Eurovision 2024](https://docs.google.com/spreadsheets/d/11gyHUJThya9iKsAuzLkYGc_G_WfWWpfEJMI9VdZ7I8M/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+- [Followers Activity Tracking and Visualization for Instagram & Telegram: Charting Your Social Media Growth](https://docs.google.com/spreadsheets/d/1PJ_Lt4JI1DV1i2FFNkLfWX-A0y1YPIkvdkw5I4u1_8c/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+- [From Hero to Zero: Unveiling a Blogger's Decline Through Telegram Analytics](https://docs.google.com/spreadsheets/d/1B9S5YdpZwFf1SdfC0B3YG55x7lnxtkEyJDZO2kCEsDA/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+- [Poker Game](https://docs.google.com/spreadsheets/d/1-v1CfSJl_dX9F8ruMRk5KdnKXWKCoQOlULotSU6gQwk/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+- [EPAM - IT Marathon 3.0](https://www.figma.com/file/nMHNOSowphKHUJaiMXlU2j/Marathon-3.0---EPAM---my-HW?type=design&node-id=35%3A7066&mode=design&t=Ykfkr19IwVUXJJZk-1) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)](https://www.figma.com/@anhelinalunova)
+- [Mate Academy - UI/UX Marathon - Music App - Interactive Prototype](https://www.figma.com/proto/3vgeKW00KlWe0sjizGtM8z/%5BMate-academy%5D-UI%2FUX-marathon?page-id=151%3A15109&type=design&node-id=3389-3363&viewport=-58%2C-2815%2C0.42&t=JbjVIBnOxeIukEGh-1&scaling=scale-down&starting-point-node-id=3383%3A3140&mode=design) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)](https://www.figma.com/@anhelinalunova)
+- [Prometheus - IT Marathon](https://www.figma.com/file/ZukoLuEQ3Hn5CHWRBllos9/Prometheus-UX%2FUI?type=design&node-id=0%3A1&mode=design&t=udbOqqz9FFQle1VZ-1) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)](https://www.figma.com/@anhelinalunova) 
+- [UI/UX Self Study](https://www.figma.com/file/h2jypHd6XDWwGhApZBlN0Z/HomeworksUIUX?type=design&node-id=0%3A1&mode=design&t=AasJGB4mpj470aUS-1) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)](https://www.figma.com/@anhelinalunova)
 
 ---
 
