@@ -74,12 +74,16 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 ### 💪 MQA Projects
 
+- Requirements Analysis:
+  - [(UKR) Requirements Review](https://docs.google.com/spreadsheets/d/1zZeTro1QHRLfq5QT-_2hA40FXDgiqc2X_3zFiskBcOE/edit?usp=sharing "GoIT School _ Homework")
+  - [(UKR) Tamagotchi Game Requirements Analysis](https://github.com/anhelina-lunova/Requirements-Analysis/ "QA Mania Practice Case")
+
+
 - [Website Feature Analysis and Prioritization](https://docs.google.com/document/d/1KqoLgv5GNvgo2y-YbPH2Tw-J2Wy6NudL3yttZaB21Lg/edit?usp=sharing "Tooltip")
 - [GoIT Website: Test Cases, Test Suits, Test Run](https://drive.google.com/drive/folders/1HHN13_1eZ9KtPszwbjtaszo7TXUQH9YO?usp=sharing "Tooltip") [![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
 - [GoIT Website: Bug Reports](https://qangiel.notion.site/8a0e4581408842e48f6ab6b7c49a1c34?v=8dc96aca90964276a4926924b2be66a8&pvs=4 "Tooltip") [![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
 - [Functional Testing Levels and Approaches](https://docs.google.com/document/d/15NpRarjsiOrVdD6ZMJy8Q_h4zeMo1CD4x7evhzF_7bI/edit?usp=sharing "Tooltip")
 - [Non-Functional / Functional / Smoke Testing >> CheckLists / Test Cases](https://docs.google.com/document/d/1yHGvSt_QwJaOuByUYB55uj010KgVWTlH7322SioyVRY/edit?usp=sharing "Tooltip")
-- [UK_Requirements Review](https://docs.google.com/spreadsheets/d/1zZeTro1QHRLfq5QT-_2hA40FXDgiqc2X_3zFiskBcOE/edit?usp=sharing "Tooltip")
 - [Specification-Based Testing Techniques: Equivalence Partitioning, Boundary Value Analysis](https://docs.google.com/document/d/1_LZT9S61A0GFv2csMSaiOtw6TV130DavqhBk0cyc4Tk/edit?usp=sharing "Tooltip")
 - [Structure-Based Testing Techniques: Statement Coverage, Decision Coverage, Path Coverage](https://docs.google.com/document/d/1HFRO5qEqLqhtYMmIBKpLisKhB-0e_0vnZBa65KDmXUU/edit?usp=sharing "Tooltip")
 - [Analysis of request, method and status](https://docs.google.com/document/d/1F0FFKYIOi7LIL4j-MzXrxeRW881rv2H772-GEDlE2SM/edit?usp=sharing "Tooltip")
