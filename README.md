@@ -36,8 +36,9 @@
       <summary>↩ Achievements ⤵</summary>
     
     - Being recognized as an A-Player by CMO
-    - The constant exposure to ambition and dedication within my work circle served as a constant source of inspiration, motivating me to push my own boundaries and strive for excellence
+    - Even though I often had to deliver bad news (**like testers do**), I always found common ground with my colleagues, and we worked together towards our shared goals
     - Successfully built rapport with colleagues who have a unique communication style, ensuring a seamless workflow and preventing potential disruptions
+    - The constant exposure to ambition and dedication within my work circle served as a constant source of inspiration, motivating me to push my own boundaries and strive for excellence
     - Transformed my understanding of spreadsheets from basic user to confident power user, significantly enhancing my personal and professional efficiency
     - Leveraging my strong affinity for optimization and automation, I successfully implemented process improvements that enhanced the department's efficiency and productivity, allowing colleagues to focus on higher-priority tasks
     - By fostering a culture of collaboration and mutual support, I built a strong and dependable team that consistently exceeded expectations and achieved remarkable results
@@ -77,10 +78,12 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 - [Website Feature Analysis and Prioritization](https://docs.google.com/document/d/1KqoLgv5GNvgo2y-YbPH2Tw-J2Wy6NudL3yttZaB21Lg/ "GoIT School _ Homework : System Study Stage (Requirement Analysis)")
 - [![](https://img.shields.io/badge/Requirement_Analysis-FAEF9B)]() [(UKR) Requirements Review](https://docs.google.com/spreadsheets/d/1zZeTro1QHRLfq5QT-_2hA40FXDgiqc2X_3zFiskBcOE/ "GoIT School _ Homework : Requirement Analysis Stage")
 - [![](https://img.shields.io/badge/Requirement_Analysis-FAEF9B)]() [(UKR) Tamagotchi Game Requirements Analysis](https://github.com/anhelina-lunova/Requirements-Analysis/ "QA Mania Practice Case : Requirement Analysis Stage")
+- [![](https://img.shields.io/badge/Test_Planning-436850)]()
 - [![](https://img.shields.io/badge/Test_Design_Techniques-944E63)]() [Specification-Based Testing Techniques: Equivalence Partitioning, Boundary Value Analysis](https://docs.google.com/document/d/1_LZT9S61A0GFv2csMSaiOtw6TV130DavqhBk0cyc4Tk/ "GoIT School _ Homework : Test Design Techniques - Black-Box")
 - [![](https://img.shields.io/badge/Test_Design_Techniques-944E63)]() [Structure-Based Testing Techniques: Statement Coverage, Decision Coverage, Path Coverage](https://docs.google.com/document/d/1HFRO5qEqLqhtYMmIBKpLisKhB-0e_0vnZBa65KDmXUU/ "GoIT School _ Homework : Test Design Techniques - White-Box")
 - [![](https://img.shields.io/badge/Test_Execution-CC3636)]() [GoIT Website: Test Cases, Test Suits, Test Run](https://drive.google.com/drive/folders/1HHN13_1eZ9KtPszwbjtaszo7TXUQH9YO "GoIT School _ Homework : Test Design & Test Execution Stages") [![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
 - [![](https://img.shields.io/badge/Test_Execution-CC3636)]() [GoIT Website: Bug Reports](https://qangiel.notion.site/8a0e4581408842e48f6ab6b7c49a1c34?v=8dc96aca90964276a4926924b2be66a8&pvs=4 "GoIT School _ Homework : Test Execution Stage") [![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
+- [![](https://img.shields.io/badge/Test_Closure-B4B4B8)]()
 - [![](https://img.shields.io/badge/Testing_Types-A7D2CB)]() [Functional Testing Levels and Approaches](https://docs.google.com/document/d/15NpRarjsiOrVdD6ZMJy8Q_h4zeMo1CD4x7evhzF_7bI/edit?usp=sharing "GoIT School _ Homework : Testing Levels - Unit, Integration, System, Acceptance; Calculator AT; Bank App ST; Social Network Integration Testing Approaches")
 - [![](https://img.shields.io/badge/Testing_Types-A7D2CB)]()  [Non-Functional / Functional / Smoke Testing >> CheckLists / Test Cases](https://docs.google.com/document/d/1yHGvSt_QwJaOuByUYB55uj010KgVWTlH7322SioyVRY/ "GoIT School _ Homework : Website Analysis for Non-Function Testing Types Necessity; Checklist Creation; Bank App Functional Testing; Smoke Testing")
 - [![](https://img.shields.io/badge/Web_Technologies-143F6B)]() [Analysis of request, method and status](https://docs.google.com/document/d/1F0FFKYIOi7LIL4j-MzXrxeRW881rv2H772-GEDlE2SM/ "Tooltip")
@@ -101,7 +104,8 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 - [Hearts-Game-python](https://github.com/anhelina-lunova/Hearts-Game-python) [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() [![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
 - [Prometheus - IT Marathon](https://anhelina-lunova.github.io/Prometheus-Marathon/) [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]() [![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]() [![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
-- [Eurovision 2024](https://docs.google.com/spreadsheets/d/11gyHUJThya9iKsAuzLkYGc_G_WfWWpfEJMI9VdZ7I8M/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+- [Petitions - progress monitoring](https://docs.google.com/spreadsheets/d/1i3T_LM4DOGJ3RB9mi90Wi6YbN7i2wDdFTumzfA5AQEA/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+- [Eurovision 2024 - monitoring bookmakers' predictions and the emergence of new songs by participants](https://docs.google.com/spreadsheets/d/11gyHUJThya9iKsAuzLkYGc_G_WfWWpfEJMI9VdZ7I8M/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
 - [Followers Activity Tracking and Visualization for Instagram & Telegram: Charting Your Social Media Growth](https://docs.google.com/spreadsheets/d/1PJ_Lt4JI1DV1i2FFNkLfWX-A0y1YPIkvdkw5I4u1_8c/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
 - [From Hero to Zero: Unveiling a Blogger's Decline Through Telegram Analytics](https://docs.google.com/spreadsheets/d/1B9S5YdpZwFf1SdfC0B3YG55x7lnxtkEyJDZO2kCEsDA/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
 - [Poker Game](https://docs.google.com/spreadsheets/d/1-v1CfSJl_dX9F8ruMRk5KdnKXWKCoQOlULotSU6gQwk/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
