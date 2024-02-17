@@ -18,10 +18,10 @@
   <summary>↩ Personal Qualities ⤵</summary>
   
     - Self-Motivated
-    - Conscientious
-    - Committed
-    - Inquisitive
-    - Reliable
+    - Conscientious <!-- - добросовісна, совісна. 1. wishing to do one's work or duty well and thoroughly. "a conscientious man, he took his duties very seriously". 2. relating to a person's conscience. "the individual is denied even the opportunity to break the law on conscientious grounds". Conscientiousness - Сумлінність -->
+    - Committed <!-- - віддана, ідейна. 1. feeling dedication and loyalty to a cause, activity, or job; wholeheartedly dedicated. "a committed reformer" -->
+    - Inquisitive <!-- допитлива. 1. curious or inquiring. "he was very chatty and inquisitive about everything"-->
+    - Reliable <!-- надійна. 1. consistently good in quality or performance; able to be trusted. "a reliable source of information"-->
   </details>
 
 - Previous Position: Partner Performance Manager (Digital Marketing, NDA)
