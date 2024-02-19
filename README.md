@@ -46,7 +46,7 @@
   
 - Desirable Position: Manual QA Engineer
 - Desirable Career Growth: Automation | General QA Engineer (Preferable: Python, Alternative: JavaScript)
-- Preferred Domains: Ed Tech, IoT, Smart Home Security, Healthcare, LifeScience, e-Commerce, Media & Entertainment
+- Preferred Domains: Ed Tech, Smart Home Security, Healthcare, LifeScience, e-Commerce, Media & Entertainment
 - Preferred Company Type: Product-based Company
 
 <!--
@@ -100,7 +100,7 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 ### 🦾 AQA Projects
 
-- [🇺🇦 🇬🇧 EPAM - IT Marathon 3.0 : Testing the filters on the online marketplace](https://github.com/anhelina-lunova/EPAM_IT-Marathon-3.0) [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() [![](https://img.shields.io/badge/pytest-white?logo=pytest&logoColor=)]() [![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
+- [EPAM - IT Marathon 3.0 : Testing the filters on the online marketplace](https://github.com/anhelina-lunova/EPAM_IT-Marathon-3.0) [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() [![](https://img.shields.io/badge/pytest-white?logo=pytest&logoColor=)]() [![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
 - [E2E Tests](https://github.com/anhelina-lunova/Cypress-E2E-Tests) [![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]() [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]() [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
 - [Page Object Pattern](https://github.com/anhelina-lunova/Cypress-Page-Object-Pattern) [![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]() [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]() [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
 - [HTTP API Tests + CI/CD](https://github.com/anhelina-lunova/Cypress-HTTP-API-Tests_CI-CD) [![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]() [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]() [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
