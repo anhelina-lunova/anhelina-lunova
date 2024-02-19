@@ -45,8 +45,19 @@
     </details>
   
 - Desirable Position: Manual QA Engineer
+  - <details>
+    <summary>↩ Skills️ ⤵</summary>
+    
+    - 
+    </details>
+    
+  - <details>
+      <summary>↩ Achievements ⤵</summary>
+    
+    - 
+    </details>
 - Desirable Career Growth: Automation | General QA Engineer (Preferable: Python, Alternative: JavaScript)
-- Preferred Domains: Ed Tech, Smart Home Security, Healthcare, LifeScience, e-Commerce, Media & Entertainment
+- Preferred Domains: EdTech, e-Learning, Healthcare, LifeScience, e-Commerce, AdTech, Media & Entertainment, Smart Home Security
 - Preferred Company Type: Product-based Company
 
 <!--
