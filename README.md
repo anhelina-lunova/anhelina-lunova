@@ -69,7 +69,7 @@
     - 
     </details>
 - Desirable Career Growth: Automation | General QA Engineer (Preferable: Python, Alternative: JavaScript)
-- Preferred Domains: EdTech, e-Learning, Healthcare, LifeScience, e-Commerce, AdTech, Media & Entertainment, Smart Home Security
+- Preferred Domains: EdTech, e-Learning, Healthcare, LifeScience, e-Commerce, AdTech, Media & Entertainment, IoT
 - Preferred Company Type: Product-based Company
 
 <!--
@@ -102,7 +102,7 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 - [![](https://img.shields.io/badge/Requirement_Analysis-FAEF9B)]() [🇺🇦 Requirements Review](https://docs.google.com/spreadsheets/d/1zZeTro1QHRLfq5QT-_2hA40FXDgiqc2X_3zFiskBcOE/ "GoIT School _ Homework : Requirement Analysis Stage")
 - [![](https://img.shields.io/badge/Requirement_Analysis-FAEF9B)]() [🇺🇦 Tamagotchi Game Requirements Analysis](https://github.com/anhelina-lunova/Requirements-Analysis/ "QA Mania Practice Case : Requirement Analysis Stage")
 - [![](https://img.shields.io/badge/Test_Planning-219ebc)]() [🇬🇧 Test Plan for 'Audio Cataloger' Application](https://qangiel.notion.site/Test-Plan-Task-597799ab00304c2ab9890ec528002b82) [![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
-- [![](https://img.shields.io/badge/Test_Planning-219ebc)]() [🇬🇧 Test Plan for 'Audio Cataloger' Application](https://qangiel.notion.site/Test-Plan-Task-597799ab00304c2ab9890ec528002b82) [![](https://img.shields.io/badge/Google_Docs-white?logo=google-docs&logoColor=4285F4)]()
+- [![](https://img.shields.io/badge/Test_Planning-219ebc)]() [🇬🇧 Test Plan for 'Audio Cataloger' Application](https://docs.google.com/document/d/1qRbqPyM8e68VFGvkIY7xuqj4FGU8mUjEzJhp6oYvFws/) [![](https://img.shields.io/badge/Google_Docs-white?logo=google-docs&logoColor=4285F4)]()
 - [![](https://img.shields.io/badge/Test_Design_Techniques-944E63)]() [🇬🇧 Specification-Based Testing Techniques: Equivalence Partitioning, Boundary Value Analysis](https://docs.google.com/document/d/1_LZT9S61A0GFv2csMSaiOtw6TV130DavqhBk0cyc4Tk/ "GoIT School _ Homework : Test Design Techniques - Black-Box")
 - [![](https://img.shields.io/badge/Test_Design_Techniques-944E63)]() [🇬🇧 Structure-Based Testing Techniques: Statement Coverage, Decision Coverage, Path Coverage](https://docs.google.com/document/d/1HFRO5qEqLqhtYMmIBKpLisKhB-0e_0vnZBa65KDmXUU/ "GoIT School _ Homework : Test Design Techniques - White-Box")
 - [![](https://img.shields.io/badge/Test_Artifacts-C38f11)]() [🇬🇧 GoIT Website: Test Cases, Test Suits, Test Run](https://drive.google.com/drive/folders/1HHN13_1eZ9KtPszwbjtaszo7TXUQH9YO "GoIT School _ Homework : Test Design & Test Execution Stages") [![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
