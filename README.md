@@ -160,7 +160,7 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 # 🛠️ Tools & Technologies
 
-as **Manual QAE** familiar with :
+### as **Manual QAE** familiar with :
 
 [![](https://img.shields.io/badge/Postman-white?logo=Postman&logoColor=ef5b25)]()
 [![](https://img.shields.io/badge/JSON-gray?logo=json&logoColor=)]()
@@ -169,7 +169,7 @@ as **Manual QAE** familiar with :
 [![](https://img.shields.io/badge/SQLite-66B9E7?logo=sqlite&logoColor=003B57)]()
 [![](https://img.shields.io/badge/DBeaver-gray?logo=dbeaver&logoColor=)]()
 
-as **Automation QAE** familiar with :
+### as **Automation QAE** familiar with :
 
 [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]()
 [![](https://img.shields.io/badge/pytest-white?logo=pytest&logoColor=)]()
