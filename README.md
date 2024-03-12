@@ -213,7 +213,7 @@ Other :
 [![](https://img.shields.io/badge/Zoom-4A8CFF?logo=zoom&logoColor=)]()
 [![](https://img.shields.io/badge/Slack-3CB187?logo=slack&logoColor=DFA22F)]()
 
-OS :
+Platforms :
 
 [![](https://img.shields.io/badge/MacOS-white?logo=apple&logoColor=black)]()
 [![](https://img.shields.io/badge/iOS-white?logo=ios&logoColor=black)]()
