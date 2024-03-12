@@ -142,7 +142,7 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 ### 🎨 Other Projects
 
-- [CyberBionic Systematics - Tetris Game - JavaScript / HTML / CSS](https://github.com/anhelina-lunova/Hearts-Game-python) [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]() [![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]()
+- [CyberBionic Systematics - Tetris Game - JavaScript / HTML / CSS](https://github.com/anhelina-lunova/Tetris-Game) [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]() [![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]()
 - [CyberBionic Systematics - Hearts Game - Python](https://github.com/anhelina-lunova/Hearts-Game-python) [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() [![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
 - [Prometheus - IT Marathon](https://anhelina-lunova.github.io/Prometheus-Marathon/) [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]() [![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]() [![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
 - [![](https://img.shields.io/badge/Parsing-e07a5f)]() [Petitions - Progress Monitoring](https://docs.google.com/spreadsheets/d/1i3T_LM4DOGJ3RB9mi90Wi6YbN7i2wDdFTumzfA5AQEA/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
