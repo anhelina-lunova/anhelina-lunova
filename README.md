@@ -101,7 +101,7 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 |     Tenure      | Weeks |      Position       | App Type | Project Name | Project Description    | Company                            | Project Type |
 |:---------------:|:-----:|:-------------------:|:--------:|:------------:|:-----------------------|:-----------------------------------|:------------:|
-|  Mar'23 - ...   |  ...  | Manual QA Engineer  |  Mobile  |   SafeKid    | Child Safety App     |Kharkiv IT Cluster \| BootCamp2024 |    Social    |
+|  Mar'24 - ...   |  ...  | Manual QA Engineer  |  Mobile  |   SafeKid    | Child Safety App     |Kharkiv IT Cluster \| BootCamp2024 |    Social    |
 | Apr'23 - May'23 |   6   | Manual QA Engineer  |   Web    |    V7Pro     | MS Teams Career Bot    |Kharkiv IT Cluster \| BootCamp2023 |    Social    |
 |     Feb'23      |   3   | Manual QA Engineer  |   Web    |    Petly     | A Place for Pet Lovers |GoIT \| Course Project             |     Pet      |
 
