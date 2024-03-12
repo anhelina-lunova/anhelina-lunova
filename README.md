@@ -193,7 +193,7 @@ Version Control :
 [![](https://img.shields.io/badge/GitLab-white?logo=gitlab&logoColor=)]()
 [![](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=)]()
 
-CI/CD Tools:
+CI/CD Tools :
 
 [![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
 [![](https://img.shields.io/badge/Amazon_AWS-252F3E?logo=amazonaws&logoColor=FF9900)]()
