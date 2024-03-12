@@ -176,7 +176,6 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 [![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
 [![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
 
-
 [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]()
 [![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]()
 [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]()
@@ -185,6 +184,8 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 [![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]()
 [![](https://img.shields.io/badge/Cucumber-F3FBF4?logo=cucumber&logoColor=00A818)]()
 [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
+
+Version Control :
 
 [![](https://img.shields.io/badge/Git-white?logo=git&logoColor=f34f29)]()
 [![](https://img.shields.io/badge/gitignore.io-white?logo=gitignoredotio&logoColor=204ecf)]()
