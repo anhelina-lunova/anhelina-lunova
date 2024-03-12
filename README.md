@@ -176,7 +176,7 @@ as **Automation QAE** familiar with :
 [![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
 [![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
 
-[![](https://img.shields.io/badge/Google_Chrome-34a853?logo=Google-chrome&logoColor=white)]()
+
 [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]()
 [![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]()
 [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]()
@@ -188,30 +188,16 @@ as **Automation QAE** familiar with :
 
 [![](https://img.shields.io/badge/Git-white?logo=git&logoColor=f34f29)]()
 [![](https://img.shields.io/badge/gitignore.io-white?logo=gitignoredotio&logoColor=204ecf)]()
-[![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
 [![](https://img.shields.io/badge/GitLab-white?logo=gitlab&logoColor=)]()
 [![](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=)]()
 
-Other :
+CI/CD Tools:
 
-[![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
-[![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
-[![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
-[![](https://img.shields.io/badge/JIRA-white?logo=Jira&logoColor=264970)]()
-[![](https://img.shields.io/badge/YouTrack-white?logo=youtrack&logoColor=264970)]()
-[![](https://img.shields.io/badge/Trello-white?logo=trello&logoColor=264970)]()
-
-[![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)](https://www.figma.com/@anhelinalunova)
-[![](https://img.shields.io/badge/Tableau-white?logo=tableau&logoColor=D9233B)]()
-[![](https://img.shields.io/badge/SimilarWeb-gray?logo=similarweb&logoColor=&logoColor=F24E1E)]()
-[![](https://img.shields.io/badge/ahrefs-gray?logo=ahrefs&logoColor=)]()
-
+[![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
 [![](https://img.shields.io/badge/Amazon_AWS-252F3E?logo=amazonaws&logoColor=FF9900)]()
 [![](https://img.shields.io/badge/Netlify-white?logo=netlify&logoColor=teal)]()
 
-[![](https://img.shields.io/badge/Google_Meet-F3E8E9?logo=google-meet&logoColor=058D7F)]()
-[![](https://img.shields.io/badge/Zoom-4A8CFF?logo=zoom&logoColor=)]()
-[![](https://img.shields.io/badge/Slack-3CB187?logo=slack&logoColor=DFA22F)]()
+### Other :
 
 Platforms :
 
@@ -220,6 +206,41 @@ Platforms :
 [![](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black)]()
 [![](https://img.shields.io/badge/Windows-white?logo=windows&logoColor=black)]()
 [![](https://img.shields.io/badge/Android-white?logo=android&logoColor=black)]()
+
+Browsers :
+
+[![](https://img.shields.io/badge/Google_Chrome-202124?logo=Google-chrome&logoColor=DEE1E6)]()
+[![](https://img.shields.io/badge/Firefox-331E54?logo=Firefox)]()
+[![](https://img.shields.io/badge/Safari-006CFF?logo=Safari)]()
+
+Task Management :
+
+[![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+[![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
+[![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
+[![](https://img.shields.io/badge/JIRA-white?logo=Jira&logoColor=264970)]()
+[![](https://img.shields.io/badge/YouTrack-white?logo=youtrack&logoColor=264970)]()
+[![](https://img.shields.io/badge/Trello-white?logo=trello&logoColor=264970)]()
+
+Communication via :
+
+[![](https://img.shields.io/badge/Google_Meet-F3E8E9?logo=google-meet&logoColor=058D7F)]()
+[![](https://img.shields.io/badge/Zoom-4A8CFF?logo=zoom&logoColor=)]()
+[![](https://img.shields.io/badge/Slack-3CB187?logo=slack&logoColor=DFA22F)]()
+[![](https://img.shields.io/badge/Discord-white?logo=discord)]()
+
+Website Analytics :
+
+[![](https://img.shields.io/badge/SimilarWeb-gray?logo=similarweb&logoColor=&logoColor=F24E1E)]()
+[![](https://img.shields.io/badge/Ahrefs-gray?logo=ahrefs)]()
+
+Design Tools :
+
+[![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)](https://www.figma.com/@anhelinalunova)
+
+Data Analytics :
+
+[![](https://img.shields.io/badge/Tableau-white?logo=tableau&logoColor=D9233B)]()
 
 ---
 
