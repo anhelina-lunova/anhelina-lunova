@@ -99,7 +99,7 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 # 👩🏻‍💻 Experience
 
-|      Tenure      |      Position       | App Type | Project Name | Project Description    | Company                            | Project Type |
+|      Date Period      |      Position       | App Type | Project Name | Project Description    | Company                            | Project Type |
 |:----------------:|:-------------------:|:--------:|:------------:|:-----------------------|:-----------------------------------|:------------:|
 | Mar'24 - May'24  | Manual QA Engineer  |  Mobile  |   SafeKid    | Child Safety App       | Kharkiv IT Cluster \| BootCamp2024 |    Social    |
 | Apr'23 - May'23  | Manual QA Engineer  |   Web    |    V7Pro     | MS Teams Career Bot    | Kharkiv IT Cluster \| BootCamp2023 |    Social    |
