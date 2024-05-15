@@ -38,7 +38,7 @@
       <summary>↩ Achievements ⤵</summary>
     
     - **Proactivity**: Being recognized as an A-Player by CMO
-    - **Collaboration & Problem Solving**: Even though I often had to deliver bad news (**like testers do**), I always found common ground with my colleagues, and we worked together towards our shared goals
+    - **Collaboration & Problem-Solving**: Even though I often had to deliver bad news (**like testers do**), I always found common ground with my colleagues, and we worked together towards our shared goals
     - **Communication**: Successfully built rapport with colleagues who have a unique communication style, ensuring a seamless workflow and preventing potential disruptions
     - **Ambition**:The constant exposure to ambition and dedication within my work circle served as a constant source of inspiration, motivating me to push my own boundaries and strive for excellence
     - **Quick Learner**: Transformed my understanding of spreadsheets from basic user to confident power user, significantly enhancing my personal and professional efficiency
@@ -122,8 +122,10 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 - [![](https://img.shields.io/badge/Test_Planning-0a9396)]() [🇬🇧 Test Plan for 'Audio Cataloger' Application](https://qangiel.notion.site/Test-Plan-Task-597799ab00304c2ab9890ec528002b82) [![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
 - [![](https://img.shields.io/badge/Test_Planning-0a9396)]() [🇬🇧 Test Plan for 'Audio Cataloger' Application](https://docs.google.com/document/d/1qRbqPyM8e68VFGvkIY7xuqj4FGU8mUjEzJhp6oYvFws/) [![](https://img.shields.io/badge/Google_Docs-white?logo=google-docs&logoColor=4285F4)]()
 
+
 - [![](https://img.shields.io/badge/Test_Design_Techniques-94d2bd)]() [🇬🇧 Specification-Based Testing Techniques: Equivalence Partitioning, Boundary Value Analysis](https://docs.google.com/document/d/1_LZT9S61A0GFv2csMSaiOtw6TV130DavqhBk0cyc4Tk/ "GoIT School _ Homework : Test Design Techniques - Black-Box")
 - [![](https://img.shields.io/badge/Test_Design_Techniques-94d2bd)]() [🇬🇧 Structure-Based Testing Techniques: Statement Coverage, Decision Coverage, Path Coverage](https://docs.google.com/document/d/1HFRO5qEqLqhtYMmIBKpLisKhB-0e_0vnZBa65KDmXUU/ "GoIT School _ Homework : Test Design Techniques - White-Box")
+
 
 - [![](https://img.shields.io/badge/Test_Artifacts-e9d8a6)]() [🇬🇧 GoIT Website: Test Cases, Test Suits, Test Run](https://drive.google.com/drive/folders/1HHN13_1eZ9KtPszwbjtaszo7TXUQH9YO "GoIT School _ Homework : Test Design & Test Execution Stages") [![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
 - [![](https://img.shields.io/badge/Test_Artifacts-e9d8a6)]() [🇬🇧 GoIT Website: Bug Reports](https://qangiel.notion.site/8a0e4581408842e48f6ab6b7c49a1c34?v=8dc96aca90964276a4926924b2be66a8&pvs=4 "GoIT School _ Homework : Test Execution Stage") [![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
@@ -134,7 +136,7 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 - [![](https://img.shields.io/badge/Testing_Types-ee9b00)]() [🇬🇧 System Testing: Bank Application](https://docs.google.com/document/d/1dxvw_delAvYB5J2dLpns9q8JwRp0ZtO9-XWnKAGhKL0/ "GoIT School _ Homework : Bank App ST")
 - [![](https://img.shields.io/badge/Testing_Types-ee9b00)]() [🇬🇧 Acceptance Testing: Calculator](https://docs.google.com/document/d/1LsMOky8M4bizkzvQoivdGLSHcf1uwZJ1RIfGsihir9E/ "GoIT School _ Homework : Acceptance Testing")
-- 
+
 
 - [![](https://img.shields.io/badge/Web_Technologies-bb3e03)]() [🇬🇧 Analysis of request, method and status](https://docs.google.com/document/d/1F0FFKYIOi7LIL4j-MzXrxeRW881rv2H772-GEDlE2SM/ "Tooltip")
 - [![](https://img.shields.io/badge/Web_Technologies-bb3e03)]() [JSON & XML](https://docs.google.com/document/d/1HVHKNit1GZviVC3p8Cqq_C4kS0mDOd0VwRHCowq3u-Q/ "Describe in JSON and XML format information about these people") [![](https://img.shields.io/badge/JSON-gray?logo=json&logoColor=)]()
@@ -144,6 +146,7 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 
 - [![](https://img.shields.io/badge/SQL-9b2226)]() [🇬🇧 SQL Queries](https://docs.google.com/document/d/1gTjbkwkTWP4jYk9ei0MDeYQifYZHFDHnlkVvreROxg0/ "Tooltip") [![](https://img.shields.io/badge/SQLite-66B9E7?logo=sqlite&logoColor=003B57)]() [![](https://img.shields.io/badge/DBeaver-gray?logo=dbeaver&logoColor=)]()
+
 <!-- 
 - [![](https://img.shields.io/badge/Testing_Types-ee9b00)]() [🇬🇧 Functional Testing Levels: Unit, Integration, System, Acceptance](https://docs.google.com/document/d/15NpRarjsiOrVdD6ZMJy8Q_h4zeMo1CD4x7evhzF_7bI/edit?usp=sharing "GoIT School _ Homework : Testing Levels - Unit, Integration, System, Acceptance")
 - [![](https://img.shields.io/badge/Testing_Types-ee9b00)]() [🇬🇧 Integration Testing Approaches: Bottom-Up, Top-Down, Big Bang](https://docs.google.com/document/d/1EGXoI52zvfs_dkpkQbBff-ENuyoOIagqIg9VlbL0mjs/ "GoIT School _ Homework : Social Network Integration Testing Approaches")
@@ -155,8 +158,14 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 - [![](https://img.shields.io/badge/Web_Automation-EED3D9)]() [EPAM - IT Marathon 3.0 : Testing the filters on the online marketplace](https://github.com/anhelina-lunova/EPAM_IT-Marathon-3.0) [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() [![](https://img.shields.io/badge/pytest-white?logo=pytest&logoColor=)]() [![](https://img.shields.io/badge/Playwright-bb544a?logo=Playwright&logoColor=68ac41)]()
 - [![](https://img.shields.io/badge/Web_Automation-EED3D9)]() [E2E Tests](https://github.com/anhelina-lunova/Cypress-E2E-Tests) [![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]() [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]() [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
 - [![](https://img.shields.io/badge/Web_Automation-EED3D9)]() [Page Object Pattern](https://github.com/anhelina-lunova/Cypress-Page-Object-Pattern) [![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]() [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]() [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
+
+
 - [![](https://img.shields.io/badge/API_Automation-F5E8DD)]() [HTTP API Tests + CI/CD](https://github.com/anhelina-lunova/Cypress-HTTP-API-Tests_CI-CD) [![](https://img.shields.io/badge/Cypress-gray?logo=cypress&logoColor=)]() [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]() [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
+
+
 - [![](https://img.shields.io/badge/Performance_Automation-CCD3CA)]() [Artillery Performance Tests](https://github.com/anhelina-lunova/Artillery-Performance-Tests) [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]() [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]()
+
+
 - [![](https://img.shields.io/badge/BDD-B5C0D0)]() [BDD Gherkin Cucumber](https://github.com/anhelina-lunova/BDD-Gherkin-Cucumber) [![](https://img.shields.io/badge/Cucumber-F3FBF4?logo=cucumber&logoColor=00A818)]() [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]()
 
 ### 🎨 Other Projects
@@ -164,12 +173,8 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 - [![](https://img.shields.io/badge/Programming-1170DE)]() [CyberBionic Systematics - Tetris Game - JavaScript / HTML / CSS](https://github.com/anhelina-lunova/Tetris-Game) [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]() [![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]()
 - [![](https://img.shields.io/badge/Programming-1170DE)]() [CyberBionic Systematics - Hearts Game - Python](https://github.com/anhelina-lunova/Hearts-Game-python) [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() [![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
 - [![](https://img.shields.io/badge/Programming-1170DE)]() [Prometheus - IT Marathon](https://anhelina-lunova.github.io/Prometheus-Marathon/) [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]() [![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]() [![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
-<!--
-- [![](https://img.shields.io/badge/Parsing-e07a5f)]() [Petitions - Progress Monitoring](https://docs.google.com/spreadsheets/d/1i3T_LM4DOGJ3RB9mi90Wi6YbN7i2wDdFTumzfA5AQEA/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
-- [![](https://img.shields.io/badge/Parsing-e07a5f)]() [Eurovision 2024 - Monitoring Bookmakers' Predictions and the Emergence of New Songs by Participants](https://docs.google.com/spreadsheets/d/11gyHUJThya9iKsAuzLkYGc_G_WfWWpfEJMI9VdZ7I8M/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
-- [![](https://img.shields.io/badge/Parsing-e07a5f)]() [From Hero to Zero: Unveiling a Blogger's Decline Through Telegram Analytics](https://docs.google.com/spreadsheets/d/1B9S5YdpZwFf1SdfC0B3YG55x7lnxtkEyJDZO2kCEsDA/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
-- [Poker Game](https://docs.google.com/spreadsheets/d/1-v1CfSJl_dX9F8ruMRk5KdnKXWKCoQOlULotSU6gQwk/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
--->
+
+
 - [![](https://img.shields.io/badge/Parsing-e07a5f)]() [Followers Activity Tracking and Visualization for Instagram & Telegram: Charting Your Social Media Growth](https://docs.google.com/spreadsheets/d/1PJ_Lt4JI1DV1i2FFNkLfWX-A0y1YPIkvdkw5I4u1_8c/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
 
 
@@ -180,6 +185,12 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 - [![](https://img.shields.io/badge/Design-9999ef)]() [Prometheus - IT Marathon](https://www.figma.com/proto/ZukoLuEQ3Hn5CHWRBllos9/my-Prometheus-UX%2FUI?page-id=201%3A2&type=design&node-id=201-29&viewport=301%2C393%2C0.25&t=fPf7PYAlEMxxBug5-1&scaling=scale-down&mode=design) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
 - [![](https://img.shields.io/badge/Design-9999ef)]() [UI/UX Self Study](https://www.figma.com/file/h2jypHd6XDWwGhApZBlN0Z/HomeworksUIUX?type=design&node-id=0%3A1&mode=design&t=AasJGB4mpj470aUS-1) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
 
+<!--
+- [![](https://img.shields.io/badge/Parsing-e07a5f)]() [Petitions - Progress Monitoring](https://docs.google.com/spreadsheets/d/1i3T_LM4DOGJ3RB9mi90Wi6YbN7i2wDdFTumzfA5AQEA/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+- [![](https://img.shields.io/badge/Parsing-e07a5f)]() [Eurovision 2024 - Monitoring Bookmakers' Predictions and the Emergence of New Songs by Participants](https://docs.google.com/spreadsheets/d/11gyHUJThya9iKsAuzLkYGc_G_WfWWpfEJMI9VdZ7I8M/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+- [![](https://img.shields.io/badge/Parsing-e07a5f)]() [From Hero to Zero: Unveiling a Blogger's Decline Through Telegram Analytics](https://docs.google.com/spreadsheets/d/1B9S5YdpZwFf1SdfC0B3YG55x7lnxtkEyJDZO2kCEsDA/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+- [Poker Game](https://docs.google.com/spreadsheets/d/1-v1CfSJl_dX9F8ruMRk5KdnKXWKCoQOlULotSU6gQwk/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+-->
 ---
 
 # 📝 Received Recommendations
