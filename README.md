@@ -7,8 +7,8 @@
   - [MQA Projects](https://github.com/anhelina-lunova#-mqa-projects)
   - [AQA Projects](https://github.com/anhelina-lunova#-aqa-projects)
   - [Other Projects](https://github.com/anhelina-lunova#-other-projects)
-- [Tools & Technologies](https://github.com/anhelina-lunova#%EF%B8%8F-tools--technologies)
 - [Recommendations](https://github.com/anhelina-lunova#-received-recommendations)
+- [Tools & Technologies](https://github.com/anhelina-lunova#%EF%B8%8F-tools--technologies)
 - [Contacts](https://github.com/anhelina-lunova#-contacts)
 - [Profile Stats](https://github.com/anhelina-lunova#-profile-stats)
 
@@ -37,27 +37,30 @@
   - <details>
       <summary>↩ Achievements ⤵</summary>
     
-    - Being recognized as an A-Player by CMO
-    - Even though I often had to deliver bad news (**like testers do**), I always found common ground with my colleagues, and we worked together towards our shared goals
-    - Successfully built rapport with colleagues who have a unique communication style, ensuring a seamless workflow and preventing potential disruptions
-    - The constant exposure to ambition and dedication within my work circle served as a constant source of inspiration, motivating me to push my own boundaries and strive for excellence
-    - Transformed my understanding of spreadsheets from basic user to confident power user, significantly enhancing my personal and professional efficiency
-    - Leveraging my strong affinity for optimization and automation, I successfully implemented process improvements that enhanced the department's efficiency and productivity, allowing colleagues to focus on higher-priority tasks
-    - By fostering a culture of collaboration and mutual support, I built a strong and dependable team that consistently exceeded expectations and achieved remarkable results
+    - **Proactivity**: Being recognized as an A-Player by CMO
+    - **Collaboration & Problem Solving**: Even though I often had to deliver bad news (**like testers do**), I always found common ground with my colleagues, and we worked together towards our shared goals
+    - **Communication**: Successfully built rapport with colleagues who have a unique communication style, ensuring a seamless workflow and preventing potential disruptions
+    - **Ambition**:The constant exposure to ambition and dedication within my work circle served as a constant source of inspiration, motivating me to push my own boundaries and strive for excellence
+    - **Quick Learner**: Transformed my understanding of spreadsheets from basic user to confident power user, significantly enhancing my personal and professional efficiency
+    - **Optimizer**:Leveraging my strong affinity for optimization and automation, I successfully implemented process improvements that enhanced the department's efficiency and productivity, allowing colleagues to focus on higher-priority tasks
+    - **Leadership & Knowledge Sharing and Mentoring**: By fostering a culture of collaboration and mutual support, I built a strong and dependable team that consistently exceeded expectations and achieved remarkable results
     </details>
   
 - Desirable Position: Manual QA Engineer
   - <details>
     <summary>↩ Skills️ ⤵</summary>
     
-    - 
+    - Passion for Quality
+    - End User Empathy 
+    - Analytical Thinking
+    - Team Player
     </details>
   
   - <details>
       <summary>↩ Testing Experience ⤵</summary>
     
     - Static (Requirements, Functional Specifications, Teammates Deliverables) & Dynamic Testing
-    - White-Box (Code, Architecture, Work Flows, ) & Black-Box Testing
+    - White-Box (Code, Architecture, Work Flows) & Black-Box Testing
     - Component Integration (Top-Down Approach) & System (E2E) Testing
     - API & GUI Testing
     - Manual & Automated Testing
@@ -71,7 +74,7 @@
     - 
     </details>
 - Desirable Career Growth: Automation | General QA Engineer (Preferable: Python, Alternative: JavaScript)
-- Preferred Sectors in Tech: EdTech, e-Learning, Healthcare, LifeScience, e-Commerce, AdTech, Media & Entertainment, IoT
+- Preferred Sectors in Tech: EdTech, e-Learning, Healthcare, LifeScience, e-Commerce, AdTech, Media & Entertainment
 - Preferred Application Types: Web 
 - Preferred Company Type: Product-based Company
 
@@ -179,6 +182,29 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 ---
 
+# 📝 Received Recommendations
+
+- [Yevhen Petrunkin](https://www.linkedin.com/in/yevhen-petrunkin), Developer, Project: V7Pro Career Bot - [*Link to Recommendation*](https://www.youtube.com/watch?v=IykuTZ-Y5yg&t=1978s) :
+  - Meticulous
+  - Knowledgeable
+  - Familiar with Git and the basics of JavaScript
+  - Good asset to any team
+- [Oleksii Dereviankin](https://www.linkedin.com/in/oleksii-dereviankin-001035249), Mentor at GoIT School - [*Link to Recommendation*](https://www.linkedin.com/in/anhelina-lunova/details/recommendations/) :
+  - Exceptional academic performance
+  - Proactive and initiative-taking approach
+  - Eagerness to go above and beyond requirements
+  - Willingness to share knowledge
+- Former Colleagues - [*Link to Recommendations*](https://www.linkedin.com/in/anhelina-lunova/details/recommendations/)
+  - Diligent, responsible, and hardworking
+  - Absolute team player, always coming to the rescue
+  - Open, friendly, and skilled in fostering fruitful communication between teams
+  - Organizational and managerial abilities, with attention to detail
+  - Analytical and talented, capable of making quick and suitable decisions
+  - Creates a healthy and positive environment for colleagues
+  - Skillful, efficient, and knowledgeable in process optimization
+
+---
+
 # 🛠️ Tools & Technologies
 
 ### as **Manual QAE** familiar with :
@@ -266,29 +292,6 @@ Design Tools :
 Data Analytics :
 
 [![](https://img.shields.io/badge/Tableau-white?logo=tableau&logoColor=D9233B)]()
-
----
-
-# 📝 Received Recommendations
-
-- [Yevhen Petrunkin](https://www.linkedin.com/in/yevhen-petrunkin), Developer, Project: V7Pro Career Bot - [*Link to Recommendation*](https://www.youtube.com/watch?v=IykuTZ-Y5yg&t=1978s) :
-  - Meticulous
-  - Knowledgeable
-  - Familiar with Git and the basics of JavaScript
-  - Good asset to any team
-- [Oleksii Dereviankin](https://www.linkedin.com/in/oleksii-dereviankin-001035249), Mentor at GoIT School - [*Link to Recommendation*](https://www.linkedin.com/in/anhelina-lunova/details/recommendations/) :
-  - Exceptional academic performance
-  - Proactive and initiative-taking approach
-  - Eagerness to go above and beyond requirements
-  - Willingness to share knowledge
-- Former Colleagues - [*Link to Recommendations*](https://www.linkedin.com/in/anhelina-lunova/details/recommendations/)
-  - Diligent, responsible, and hardworking
-  - Absolute team player, always coming to the rescue
-  - Open, friendly, and skilled in fostering fruitful communication between teams
-  - Organizational and managerial abilities, with attention to detail
-  - Analytical and talented, capable of making quick and suitable decisions
-  - Creates a healthy and positive environment for colleagues
-  - Skillful, efficient, and knowledgeable in process optimization
 
 ---
 
