@@ -14,7 +14,7 @@
 
 # 🕵🏻‍♀️ About me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=6000&pause=100&color=35B7F1&width=550&height=45&lines=Click+on+%5B›↩%20Item%20⤵%5d+%26+discover+what's+hidden+inside)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=6000&pause=100&color=35B7F1&width=550&height=45&lines=Click+on+%5B›↩%20Item%20⤵%5d+%26+discover+what's+hidden+inside)]()
 
 - <details>
   <summary>↩ Personal Qualities ⤵</summary>
