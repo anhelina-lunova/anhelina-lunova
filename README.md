@@ -99,38 +99,53 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 # 👩🏻‍💻 Experience
 
-|      Tenure      | Weeks |      Position       | App Type | Project Name | Project Description    | Company                            | Project Type |
-|:----------------:|:-----:|:-------------------:|:--------:|:------------:|:-----------------------|:-----------------------------------|:------------:|
-| Mar'24 - present |   8   | Manual QA Engineer  |  Mobile  |   SafeKid    | Child Safety App     |Kharkiv IT Cluster \| BootCamp2024 |    Social    |
-| Apr'23 - May'23  |   6   | Manual QA Engineer  |   Web    |    V7Pro     | MS Teams Career Bot    |Kharkiv IT Cluster \| BootCamp2023 |    Social    |
-|      Feb'23      |   3   | Manual QA Engineer  |   Web    |    Petly     | A Place for Pet Lovers |GoIT \| Course Project             |     Pet      |
+|     Tenure      |      Position      |  App Type   | Project Name | Project Description    | Company                            | Project Type |                                                                                                                                                                                                                                                                                                                                                                                                  Tools                                                                                                                                                                                                                                                                                                                                                                                                   |
+|:---------------:|:------------------:|:-----------:|:------------:|:-----------------------|:-----------------------------------|:------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Mar'24 - May'24 | Manual QA Engineer | Mobile, Web |   SafeKid    | Child Safety App       | Kharkiv IT Cluster \| BootCamp2024 |    Social    | [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]() [![](https://img.shields.io/badge/Postman-white?logo=Postman&logoColor=ef5b25)]() [![](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=)]() [![](https://img.shields.io/badge/VSCode-white?logo=visual-studio-code&logoColor=016EC5)]() [![](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=3c873a)]() [![](https://img.shields.io/badge/npm-white?logo=npm&logoColor=cb3837)]() [![](https://img.shields.io/badge/Android_Studio-202124?logo=androidstudio&logoColor=)]() [![](https://img.shields.io/badge/Xcode-white?logo=xcode&logoColor=)]() [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)](https://www.figma.com/@anhelinalunova) |
+| Apr'23 - May'23 | Manual QA Engineer |     Web     |    V7Pro     | MS Teams Career Bot    | Kharkiv IT Cluster \| BootCamp2023 |    Social    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|     Feb'23      | Manual QA Engineer |     Web     |    Petly     | A Place for Pet Lovers | GoIT \| Course Project             |     Pet      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ### 💪 MQA Projects
 
 - [![](https://img.shields.io/badge/Prioritization-001219)]() [🇬🇧 Website Feature Analysis and Prioritization](https://docs.google.com/document/d/1KqoLgv5GNvgo2y-YbPH2Tw-J2Wy6NudL3yttZaB21Lg/ "GoIT School _ Homework : System Study Stage (Requirement Analysis)")
+- [![](https://img.shields.io/badge/Test_Artifacts-e9d8a6)]() [🇬🇧 Functional Testing of Website Main Function_Checklist](https://docs.google.com/document/d/1XeumPHwF0Zw_ScC0p8k_VWFrp-WKAldkAILie3R_DOs/ "GoIT School _ Homework : Checklist Creation, Website Functional Testing")
+- [![](https://img.shields.io/badge/Testing_Types-ee9b00)]() [🇬🇧 Website Analysis for Non-Functional Testing](https://docs.google.com/document/d/1yHGvSt_QwJaOuByUYB55uj010KgVWTlH7322SioyVRY/ "GoIT School _ Homework : Website Analysis for Non-Functional Testing Types Necessity")
+
+
 - [![](https://img.shields.io/badge/Requirement_Analysis-005f73)]() [🇺🇦 Requirements Review](https://docs.google.com/spreadsheets/d/1zZeTro1QHRLfq5QT-_2hA40FXDgiqc2X_3zFiskBcOE/ "GoIT School _ Homework : Requirement Analysis Stage")
 - [![](https://img.shields.io/badge/Requirement_Analysis-005f73)]() [🇺🇦 Tamagotchi Game Requirements Analysis](https://github.com/anhelina-lunova/Requirements-Analysis/ "QA Mania Practice Case : Requirement Analysis Stage")
+
+
 - [![](https://img.shields.io/badge/Test_Planning-0a9396)]() [🇬🇧 Test Plan for 'Audio Cataloger' Application](https://qangiel.notion.site/Test-Plan-Task-597799ab00304c2ab9890ec528002b82) [![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
 - [![](https://img.shields.io/badge/Test_Planning-0a9396)]() [🇬🇧 Test Plan for 'Audio Cataloger' Application](https://docs.google.com/document/d/1qRbqPyM8e68VFGvkIY7xuqj4FGU8mUjEzJhp6oYvFws/) [![](https://img.shields.io/badge/Google_Docs-white?logo=google-docs&logoColor=4285F4)]()
+
 - [![](https://img.shields.io/badge/Test_Design_Techniques-94d2bd)]() [🇬🇧 Specification-Based Testing Techniques: Equivalence Partitioning, Boundary Value Analysis](https://docs.google.com/document/d/1_LZT9S61A0GFv2csMSaiOtw6TV130DavqhBk0cyc4Tk/ "GoIT School _ Homework : Test Design Techniques - Black-Box")
 - [![](https://img.shields.io/badge/Test_Design_Techniques-94d2bd)]() [🇬🇧 Structure-Based Testing Techniques: Statement Coverage, Decision Coverage, Path Coverage](https://docs.google.com/document/d/1HFRO5qEqLqhtYMmIBKpLisKhB-0e_0vnZBa65KDmXUU/ "GoIT School _ Homework : Test Design Techniques - White-Box")
+
 - [![](https://img.shields.io/badge/Test_Artifacts-e9d8a6)]() [🇬🇧 GoIT Website: Test Cases, Test Suits, Test Run](https://drive.google.com/drive/folders/1HHN13_1eZ9KtPszwbjtaszo7TXUQH9YO "GoIT School _ Homework : Test Design & Test Execution Stages") [![](https://img.shields.io/badge/TestRail-white?logo=testrail&logoColor=)]()
 - [![](https://img.shields.io/badge/Test_Artifacts-e9d8a6)]() [🇬🇧 GoIT Website: Bug Reports](https://qangiel.notion.site/8a0e4581408842e48f6ab6b7c49a1c34?v=8dc96aca90964276a4926924b2be66a8&pvs=4 "GoIT School _ Homework : Test Execution Stage") [![](https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black)]()
-- [![](https://img.shields.io/badge/Test_Artifacts-e9d8a6)]() [🇬🇧 Functional Testing of Website Main Function_Checklist](https://docs.google.com/document/d/1XeumPHwF0Zw_ScC0p8k_VWFrp-WKAldkAILie3R_DOs/ "GoIT School _ Homework : Checklist Creation, Website Functional Testing")
 - [![](https://img.shields.io/badge/Test_Artifacts-e9d8a6)]() [🇬🇧 Functional Testing of Banking App_Positive/Negative_Test Cases](https://docs.google.com/document/d/16eTl6fnRWDi5v3X-mD9Xo5oVMqfvI-4d9UMO13dCkDc/ "GoIT School _ Homework : Test Cases Creation, Banking App Functional Testing")
 - [![](https://img.shields.io/badge/Test_Artifacts-e9d8a6)]() [🇬🇧 Smoke Testing_Checklist](https://docs.google.com/document/d/1EAkwJv5_fy4iBxSjmDN4aMOX6oHOLnCFsSrOUkr3Mlo/ "GoIT School _ Homework : Smoke Testing of Slack App")
 - [![](https://img.shields.io/badge/Test_Artifacts-e9d8a6)]() [🇺🇦 EPAM - IT Marathon 3.0 : TCs_Testing the filters on the online marketplace](https://docs.google.com/spreadsheets/d/1IkWvpdlrE5_ie9j0B7fhPs82SH81RMfVFHE9swkDG8Q/edit#gid=347674759)
-- [![](https://img.shields.io/badge/Testing_Types-ee9b00)]() [🇬🇧 Functional Testing Levels: Unit, Integration, System, Acceptance](https://docs.google.com/document/d/15NpRarjsiOrVdD6ZMJy8Q_h4zeMo1CD4x7evhzF_7bI/edit?usp=sharing "GoIT School _ Homework : Testing Levels - Unit, Integration, System, Acceptance")
-- [![](https://img.shields.io/badge/Testing_Types-ee9b00)]() [🇬🇧 Integration Testing Approaches: Bottom-Up, Top-Down, Big Bang](https://docs.google.com/document/d/1EGXoI52zvfs_dkpkQbBff-ENuyoOIagqIg9VlbL0mjs/ "GoIT School _ Homework : Social Network Integration Testing Approaches")
+
+
 - [![](https://img.shields.io/badge/Testing_Types-ee9b00)]() [🇬🇧 System Testing: Bank Application](https://docs.google.com/document/d/1dxvw_delAvYB5J2dLpns9q8JwRp0ZtO9-XWnKAGhKL0/ "GoIT School _ Homework : Bank App ST")
 - [![](https://img.shields.io/badge/Testing_Types-ee9b00)]() [🇬🇧 Acceptance Testing: Calculator](https://docs.google.com/document/d/1LsMOky8M4bizkzvQoivdGLSHcf1uwZJ1RIfGsihir9E/ "GoIT School _ Homework : Acceptance Testing")
-- [![](https://img.shields.io/badge/Testing_Types-ee9b00)]() [🇬🇧 Website Analysis for Non-Functional Testing](https://docs.google.com/document/d/1yHGvSt_QwJaOuByUYB55uj010KgVWTlH7322SioyVRY/ "GoIT School _ Homework : Website Analysis for Non-Functional Testing Types Necessity")
-- [![](https://img.shields.io/badge/E2E-ca6702)]() [🇺🇦 Checking how users move through the app and seeing if it matches the design plans (v.1)](https://docs.google.com/spreadsheets/d/1eNNSyanXf2qD4UbPnc3Rbu3z6AOpUh7tJvUPETIvTQQ/ "BootCamp2023 : First App Version Test")
-- [![](https://img.shields.io/badge/Web_Technologies-bb3e03)]() [🇬🇧 Analysis of request, method and status](https://docs.google.com/document/d/1F0FFKYIOi7LIL4j-MzXrxeRW881rv2H772-GEDlE2SM/ "Tooltip")
-- [![](https://img.shields.io/badge/Web_Technologies-bb3e03)]() [JSON & XML](https://docs.google.com/document/d/1HVHKNit1GZviVC3p8Cqq_C4kS0mDOd0VwRHCowq3u-Q/ "Tooltip") [![](https://img.shields.io/badge/JSON-gray?logo=json&logoColor=)]()
-- [![](https://img.shields.io/badge/API-ae2012)]() [🇬🇧 Creating Requests and Testing The Trello REST API using Postman](https://docs.google.com/document/d/1J5XjEU7O6brqvpFm1iGl6mEOlJryFzClOvFvTEkZN2g/ "Tooltip") [![](https://img.shields.io/badge/Postman-white?logo=Postman&logoColor=ef5b25)]() [![](https://img.shields.io/badge/Trello-white?logo=trello&logoColor=264970)]()
-- [![](https://img.shields.io/badge/SQL-9b2226)]() [🇬🇧 SQL Queries](https://docs.google.com/document/d/1gTjbkwkTWP4jYk9ei0MDeYQifYZHFDHnlkVvreROxg0/ "Tooltip") [![](https://img.shields.io/badge/SQLite-66B9E7?logo=sqlite&logoColor=003B57)]() [![](https://img.shields.io/badge/DBeaver-gray?logo=dbeaver&logoColor=)]()
+- 
 
+- [![](https://img.shields.io/badge/Web_Technologies-bb3e03)]() [🇬🇧 Analysis of request, method and status](https://docs.google.com/document/d/1F0FFKYIOi7LIL4j-MzXrxeRW881rv2H772-GEDlE2SM/ "Tooltip")
+- [![](https://img.shields.io/badge/Web_Technologies-bb3e03)]() [JSON & XML](https://docs.google.com/document/d/1HVHKNit1GZviVC3p8Cqq_C4kS0mDOd0VwRHCowq3u-Q/ "Describe in JSON and XML format information about these people") [![](https://img.shields.io/badge/JSON-gray?logo=json&logoColor=)]()
+
+
+- [![](https://img.shields.io/badge/API-ae2012)]() [🇬🇧 Creating Requests and Testing The Trello REST API using Postman](https://docs.google.com/document/d/1J5XjEU7O6brqvpFm1iGl6mEOlJryFzClOvFvTEkZN2g/ "Tooltip") [![](https://img.shields.io/badge/Postman-white?logo=Postman&logoColor=ef5b25)]() [![](https://img.shields.io/badge/Trello-white?logo=trello&logoColor=264970)]()
+
+
+- [![](https://img.shields.io/badge/SQL-9b2226)]() [🇬🇧 SQL Queries](https://docs.google.com/document/d/1gTjbkwkTWP4jYk9ei0MDeYQifYZHFDHnlkVvreROxg0/ "Tooltip") [![](https://img.shields.io/badge/SQLite-66B9E7?logo=sqlite&logoColor=003B57)]() [![](https://img.shields.io/badge/DBeaver-gray?logo=dbeaver&logoColor=)]()
+<!-- 
+- [![](https://img.shields.io/badge/Testing_Types-ee9b00)]() [🇬🇧 Functional Testing Levels: Unit, Integration, System, Acceptance](https://docs.google.com/document/d/15NpRarjsiOrVdD6ZMJy8Q_h4zeMo1CD4x7evhzF_7bI/edit?usp=sharing "GoIT School _ Homework : Testing Levels - Unit, Integration, System, Acceptance")
+- [![](https://img.shields.io/badge/Testing_Types-ee9b00)]() [🇬🇧 Integration Testing Approaches: Bottom-Up, Top-Down, Big Bang](https://docs.google.com/document/d/1EGXoI52zvfs_dkpkQbBff-ENuyoOIagqIg9VlbL0mjs/ "GoIT School _ Homework : Social Network Integration Testing Approaches")
+- [![](https://img.shields.io/badge/E2E-ca6702)]() [🇺🇦 Checking how users move through the app and seeing if it matches the design plans (v.1)](https://docs.google.com/spreadsheets/d/1eNNSyanXf2qD4UbPnc3Rbu3z6AOpUh7tJvUPETIvTQQ/ "BootCamp2023 : First App Version Test")
+-->
 
 ### 🦾 AQA Projects
 
@@ -143,19 +158,24 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 
 ### 🎨 Other Projects
 
-- [CyberBionic Systematics - Tetris Game - JavaScript / HTML / CSS](https://github.com/anhelina-lunova/Tetris-Game) [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]() [![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]()
-- [CyberBionic Systematics - Hearts Game - Python](https://github.com/anhelina-lunova/Hearts-Game-python) [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() [![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
-- [Prometheus - IT Marathon](https://anhelina-lunova.github.io/Prometheus-Marathon/) [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]() [![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]() [![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
+- [![](https://img.shields.io/badge/Programming-1170DE)]() [CyberBionic Systematics - Tetris Game - JavaScript / HTML / CSS](https://github.com/anhelina-lunova/Tetris-Game) [![](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=)]() [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]() [![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]()
+- [![](https://img.shields.io/badge/Programming-1170DE)]() [CyberBionic Systematics - Hearts Game - Python](https://github.com/anhelina-lunova/Hearts-Game-python) [![](https://img.shields.io/badge/Python-ffde57?logo=python&logoColor=4584b6)]() [![](https://img.shields.io/badge/PyCharm-c0ccba?&logo=PyCharm&logoColor=4B4A16)]()
+- [![](https://img.shields.io/badge/Programming-1170DE)]() [Prometheus - IT Marathon](https://anhelina-lunova.github.io/Prometheus-Marathon/) [![](https://img.shields.io/badge/HTML5-ebebeb?logo=html5&logoColor=)]() [![](https://img.shields.io/badge/CSS3-ebebeb?logo=css3&logoColor=264de4)]() [![](https://img.shields.io/badge/GitHub_Actions-white?logo=github-actions&logoColor=)]()
+<!--
 - [![](https://img.shields.io/badge/Parsing-e07a5f)]() [Petitions - Progress Monitoring](https://docs.google.com/spreadsheets/d/1i3T_LM4DOGJ3RB9mi90Wi6YbN7i2wDdFTumzfA5AQEA/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
 - [![](https://img.shields.io/badge/Parsing-e07a5f)]() [Eurovision 2024 - Monitoring Bookmakers' Predictions and the Emergence of New Songs by Participants](https://docs.google.com/spreadsheets/d/11gyHUJThya9iKsAuzLkYGc_G_WfWWpfEJMI9VdZ7I8M/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
-- [![](https://img.shields.io/badge/Parsing-e07a5f)]() [Followers Activity Tracking and Visualization for Instagram & Telegram: Charting Your Social Media Growth](https://docs.google.com/spreadsheets/d/1PJ_Lt4JI1DV1i2FFNkLfWX-A0y1YPIkvdkw5I4u1_8c/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
 - [![](https://img.shields.io/badge/Parsing-e07a5f)]() [From Hero to Zero: Unveiling a Blogger's Decline Through Telegram Analytics](https://docs.google.com/spreadsheets/d/1B9S5YdpZwFf1SdfC0B3YG55x7lnxtkEyJDZO2kCEsDA/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
 - [Poker Game](https://docs.google.com/spreadsheets/d/1-v1CfSJl_dX9F8ruMRk5KdnKXWKCoQOlULotSU6gQwk/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
-- [QA Mania - Tamagotchi](https://www.figma.com/file/xOe94Nixo0xUHLEXzQSHtB/Tamagotchi?type=design&node-id=0%3A1&mode=design&t=wGycAsnXpjvMk9zG-1) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
-- [EPAM - IT Marathon 3.0](https://www.figma.com/file/nMHNOSowphKHUJaiMXlU2j/Marathon-3.0---EPAM---my-HW?type=design&node-id=35%3A7066&mode=design&t=Ykfkr19IwVUXJJZk-1) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
-- [Mate Academy - UI/UX Marathon - Music App - Interactive Prototype](https://www.figma.com/proto/3vgeKW00KlWe0sjizGtM8z/%5BMate-academy%5D-UI%2FUX-marathon?page-id=151%3A15109&type=design&node-id=3383-3140&viewport=191%2C-2126%2C0.35&t=xExUO9hyTnYlxfuq-1&scaling=scale-down&starting-point-node-id=3383%3A3140&mode=design) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
-- [Prometheus - IT Marathon](https://www.figma.com/proto/ZukoLuEQ3Hn5CHWRBllos9/my-Prometheus-UX%2FUI?page-id=201%3A2&type=design&node-id=201-29&viewport=301%2C393%2C0.25&t=fPf7PYAlEMxxBug5-1&scaling=scale-down&mode=design) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
-- [UI/UX Self Study](https://www.figma.com/file/h2jypHd6XDWwGhApZBlN0Z/HomeworksUIUX?type=design&node-id=0%3A1&mode=design&t=AasJGB4mpj470aUS-1) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
+-->
+- [![](https://img.shields.io/badge/Parsing-e07a5f)]() [Followers Activity Tracking and Visualization for Instagram & Telegram: Charting Your Social Media Growth](https://docs.google.com/spreadsheets/d/1PJ_Lt4JI1DV1i2FFNkLfWX-A0y1YPIkvdkw5I4u1_8c/) [![](https://img.shields.io/badge/Google_Sheets-B1DFC9?logo=google-sheets&logoColor=23A566)]()
+
+
+- [![](https://img.shields.io/badge/Design-9999ef)]() [QA Mania - Tamagotchi](https://www.figma.com/file/xOe94Nixo0xUHLEXzQSHtB/Tamagotchi?type=design&node-id=0%3A1&mode=design&t=wGycAsnXpjvMk9zG-1) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
+- [![](https://img.shields.io/badge/Design-9999ef)]() [EPAM - IT Marathon 3.0](https://www.figma.com/file/nMHNOSowphKHUJaiMXlU2j/Marathon-3.0---EPAM---my-HW?type=design&node-id=35%3A7066&mode=design&t=Ykfkr19IwVUXJJZk-1) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
+- [![](https://img.shields.io/badge/Design-9999ef)]() [Mate Academy - UI/UX Marathon - Music App - Interactive Prototype](https://www.figma.com/proto/3vgeKW00KlWe0sjizGtM8z/%5BMate-academy%5D-UI%2FUX-marathon?page-id=151%3A15109&type=design&node-id=3383-3140&viewport=191%2C-2126%2C0.35&t=xExUO9hyTnYlxfuq-1&scaling=scale-down&starting-point-node-id=3383%3A3140&mode=design) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
+- [![](https://img.shields.io/badge/Design-9999ef)]() [GoIT - UI/UX Marathon - Mobile App - Interactive Prototype](https://www.figma.com/proto/c5dnJE748QHBmjQJdWsurw/my-Prototype%2BContent_Gus?node-id=37503-307&starting-point-node-id=37503%3A307&scaling=scale-down)
+- [![](https://img.shields.io/badge/Design-9999ef)]() [Prometheus - IT Marathon](https://www.figma.com/proto/ZukoLuEQ3Hn5CHWRBllos9/my-Prometheus-UX%2FUI?page-id=201%3A2&type=design&node-id=201-29&viewport=301%2C393%2C0.25&t=fPf7PYAlEMxxBug5-1&scaling=scale-down&mode=design) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
+- [![](https://img.shields.io/badge/Design-9999ef)]() [UI/UX Self Study](https://www.figma.com/file/h2jypHd6XDWwGhApZBlN0Z/HomeworksUIUX?type=design&node-id=0%3A1&mode=design&t=AasJGB4mpj470aUS-1) [![](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=F24E1E)]()
 
 ---
 
@@ -169,6 +189,9 @@ Driven QA engineer with an unwavering commitment to crafting exceptional softwar
 [![](https://img.shields.io/badge/MySQL-00688F?logo=mysql&logoColor=E48E1A)]()
 [![](https://img.shields.io/badge/SQLite-66B9E7?logo=sqlite&logoColor=003B57)]()
 [![](https://img.shields.io/badge/DBeaver-gray?logo=dbeaver&logoColor=)]()
+
+[![](https://img.shields.io/badge/Android_Studio-202124?logo=androidstudio&logoColor=)]()
+[![](https://img.shields.io/badge/Xcode-white?logo=xcode&logoColor=)]()
 
 ### as **Automation QAE** familiar with :
 
@@ -280,7 +303,7 @@ Data Analytics :
 
 # 📈 Profile Stats
 
-|         ![](https://github-profile-trophy.vercel.app/?username=anhelina-lunova&theme=onedark&row=2&column=4)         | ![](https://github-readme-streak-stats.herokuapp.com?user=anhelina-lunova&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=onedark) |
+|              ![](https://github-profile-trophy.vercel.app/?username=anhelina-lunova&theme=onedark&row=2&column=4)               | ![](https://github-readme-streak-stats.herokuapp.com?user=anhelina-lunova&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=onedark) |
 |:-------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anhelina-lunova&layout=donut&hide_border=true&theme=onedark) |                      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anhelina-lunova&theme=onedark)                      |
 |      ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhelina-lunova&theme=onedark)       |           ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhelina-lunova&theme=onedark&utcOffset=8)           |
